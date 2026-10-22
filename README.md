@@ -1,3 +1,6 @@
+<img width="283" height="313" alt="Pokemon-black-cartride-gameboy-image" src="https://github.com/user-attachments/assets/50238c62-a65a-49ff-a43c-1e7c97c7d173" />
+
+
 # Pokémon - Versione Nera (Creepypasta)
 
 Hi there
@@ -36,6 +39,9 @@ https://github.com/pret/pokered
 https://github.com/alechieffi/pokered-it
 
 https://github.com/Ax461/pokeblack
+
+<img width="160" height="144" alt="pokeblack-0" src="https://github.com/user-attachments/assets/77965f28-8d4c-40a7-a238-c518d9b2a969" /><img width="160" height="144" alt="pokeblack-1" src="https://github.com/user-attachments/assets/58b135b9-a631-40d8-9735-19fe5ba8c284" /><img width="160" height="145" alt="pokeblack-3" src="https://github.com/user-attachments/assets/4f8961d0-14cd-4bd5-95a5-7b1311c5d9df" /><img width="160" height="144" alt="pokeblack-2" src="https://github.com/user-attachments/assets/df3c3fad-a4e5-461a-9b33-4b42e7903651" />
+
 
 
 
