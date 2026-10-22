@@ -1,12 +1,13 @@
 _CeladonPrizeRoomText1::
-	text "I sure do fancy"
-	line "that PORYGON!"
+	text "Mi piace quel"
+	line "PORYGON!"
 
-	para "But, it's hard to"
-	line "win at slots!"
+	para "Ma è difficile"
+	line "vincere con le"
+	cont "slot machine!"
 	done
 
 _CeladonPrizeRoomText2::
-	text "I had a major"
-	line "haul today!"
+	text "Ho vinto"
+	line "molto oggi!"
 	done

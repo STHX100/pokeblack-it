@@ -1,78 +1,80 @@
 _TowerRescueFujiText::
-	text "MR.FUJI: Heh? You"
-	line "came to save me?"
+	text "MR.FUJI: Sei qui"
+	line "per salvarmi?"
 
-	para "Thank you. But, I"
-	line "came here of my"
-	cont "own free will."
+	para "Grazie, ma sono"
+	line "venuto qui"
+	cont "spontaneamente."
 
-	para "I came to calm"
-	line "the soul of"
-	cont "CUBONE's mother."
+	para "Sono qui per"
+	line "calmare l'anima"
+	cont "della madre"
+	cont "di CUBONE."
 
-	para "I think MAROWAK's"
-	line "spirit has gone"
-	cont "to the afterlife."
+	para "Credo che ormai"
+	line "lo spirito di"
+	cont "MAROWAK sia già"
+	cont "nell'aldilà."
 
-	para "I must thank you"
-	line "for your kind"
-	cont "concern!"
+	para "Grazie mille"
+	line "per il tuo"
+	cont "interessamento!"
 
-	para "Follow me to my"
-	line "home, #MON"
-	cont "HOUSE at the foot"
-	cont "of this tower."
+	para "Seguimi fino alla"
+	line "CASA #MON, ai"
+	cont "piedi di"
+	cont "questa torre."
 	done
 
 _PokemonTower7BattleText1::
-	text "What do you want?"
-	line "Why are you here?"
+	text "Cosa cerchi?"
+	line "Perché sei qui?"
 	done
 
 _PokemonTower7EndBattleText1::
-	text "I give up!"
+	db $0
+	line "Mi arrendo!"
 	prompt
 
 _PokemonTower7AfterBattleText1::
-	text "I'm not going to"
-	line "forget this!"
+	text "Non me lo"
+	line "dimenticherò!"
 	done
 
 _PokemonTower7BattleText2::
-	text "This old guy came"
-	line "and complained"
-	cont "about us harming"
-	cont "useless #MON!"
+	text "Questo si lamenta"
+	line "che facciamo del"
+	cont "male a degli"
+	cont "inutili #MON."
 
-	para "We're talking it"
-	line "over as adults!"
+	para "Parliamone"
+	line "da adulti!"
 	done
 
 _PokemonTower7EndBattleText2::
-	text "Please!"
-	line "No more!"
+	text "Basta,"
+	line "per favore!"
 	prompt
 
 _PokemonTower7AfterBattleText2::
-	text "#MON are only"
-	line "good for making"
-	cont "money!"
+	text "I #MON servono"
+	line "solo per far"
+	cont "soldi!"
 
-	para "Stay out of our"
-	line "business!"
+	para "Non ti impicciare!"
 	done
 
 _PokemonTower7BattleText3::
-	text "You're not saving"
-	line "anyone, kid!"
+	text "Non salverai"
+	line "nessuno!"
 	done
 
 _PokemonTower7EndBattleText3::
-	text "Don't"
-	line "fight us ROCKETs!"
+	text "Non"
+	line "osare sfidare"
+	cont "i ROCKET!"
 	prompt
 
 _PokemonTower7AfterBattleText3::
-	text "You're not getting"
-	line "away with this!"
+	text "Non te la caverai!"
 	done

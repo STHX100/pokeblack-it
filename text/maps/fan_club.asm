@@ -1,143 +1,143 @@
 PikachuFanText::
-	text "Won't you admire"
-	line "my PIKACHU's"
-	cont "adorable tail?"
+	text "Non è bella la"
+	line "coda del mio"
+	cont "PIKACHU?"
 	done
 
 PikachuFanBetterText::
-	text "Humph! My PIKACHU"
-	line "is twice as cute"
-	cont "as that one!"
+	text "Il mio PIKACHU è"
+	line "molto più carino"
+	cont "di questo!"
 	done
 
 SeelFanText::
-	text "I just love my"
-	line "SEEL!"
+	text "Io adoooro il"
+	line "mio SEEL!"
 
-	para "It squeals when I"
-	line "hug it!"
+	para "Squittisce quando"
+	line "l'abbraccio!"
 	done
 
 SeelFanBetterText::
-	text "Oh dear!"
+	text "Perbacco!"
 
-	para "My SEEL is far"
-	line "more attractive!"
+	para "Il mio SEEL è"
+	line "molto più bello!"
 	done
 
 FanClubPikachuText::
-	text "PIKACHU: Chu!"
-	line "Pikachu!"
+	text "PIKACHU: Pika!"
+	line "Pikaciu!"
 	done
 
 FanClubSeelText::
-	text "SEEL: Kyuoo!"
+	text "SEEL: Eeel!"
 	done
 
 FanClubMeetChairText::
-	text "I chair the"
-	line "#MON Fan Club!"
+	text "Sono il presidente"
+	line "del #MON Fan"
+	cont "Club!"
 
-	para "I have collected"
-	line "over 100 #MON!"
+	para "Ho più di"
+	line "100 #MON!"
 
-	para "I'm very fussy"
-	line "when it comes to"
+	para "Sono molto pignolo"
+	line "in fatto di"
 	cont "#MON!"
 
-	para "So..."
+	para "Bene..."
 
-	para "Did you come"
-	line "visit to hear"
-	cont "about my #MON?"
+	para "Vuoi sapere tutto"
+	line "sui miei #MON?"
 	done
 
 FanClubChairStoryText::
-	text "Good!"
-	line "Then listen up!"
+	text "Stupendo, allora"
+	line "ascolta...!"
 
-	para "My favorite"
+	para "Il mio preferito è"
 	line "RAPIDASH..."
 
-	para "It...cute..."
-	line "lovely...smart..."
-	cont "plus...amazing..."
-	cont "you think so?..."
-	cont "oh yes...it..."
-	cont "stunning..."
-	cont "kindly..."
-	cont "love it!"
+	para "È... grazioso..."
+	line "carino...veloce"
+	cont "e incredibile..."
+	cont "Non trovi?... È"
+	cont "sorprendente..."
+	cont "simpatico..."
+	cont "Mi piace tanto!"
 
-	para "Hug it...when..."
-	cont "sleeping...warm"
-	cont "and cuddly..."
-	cont "spectacular..."
-	cont "ravishing..."
-	cont "...Oops! Look at"
-	cont "the time! I kept"
-	cont "you too long!"
+	para "Se lo abbraccio..."
+	line "quando dorme..."
+	cont "è taaanto caldo"
+	cont "e morbido...è"
+	cont "spettacolare..."
+	cont "fantastico..."
+	cont "Ops! Guarda che"
+	cont "ora è! Ti faccio"
+	cont "fare tardi!"
 
-	para "Thanks for hearing"
-	line "me out! I want"
-	cont "you to have this!"
+	para "Grazie per l'"
+	line "attenzione!"
+	cont "Prendi questo!"
 	prompt
 
 ReceivedBikeVoucherText::
-	text "<PLAYER> received"
-	line "a @"
+	text "<PLAYER> riceve"
+	line "il @"
 	TX_RAM wcf4b
 	text "!@@"
 
 ExplainBikeVoucherText::
 	text ""
-	para "Exchange that for"
-	line "a BICYCLE!"
+	para "Scambialo con una"
+	line "BICICLETTA!"
 
-	para "Don't worry, my"
-	line "FEAROW will FLY"
-	cont "me anywhere!"
+	para "Non importa, il"
+	line "mio FEAROW mi"
+	cont "porterà in VOLO"
+	cont "ovunque voglia!"
 
-	para "So, I don't need a"
-	line "BICYCLE!"
+	para "Non ho bisogno di"
+	line "una BICICLETTA!"
 
-	para "I hope you like"
-	line "cycling!"
+	para "Spero che ti"
+	line "piaccia pedalare!"
 	done
 
 FanClubNoStoryText::
-	text "Oh. Come back"
-	line "when you want to"
-	cont "hear my story!"
+	text "Torna quando hai"
+	line "voglia di sentire"
+	cont "le mie storie!"
 	done
 
 FanClubChairFinalText::
-	text "Hello, <PLAYER>!"
+	text "Ciao, <PLAYER>!"
 
-	para "Did you come see"
-	line "me about my"
-	cont "#MON again?"
+	para "Sei tornato a"
+	line "sentire dei"
+	cont "miei #MON?"
 
-	para "No? Too bad!"
+	para "No? Che peccato!"
 	done
 
 FanClubBagFullText::
-	text "Make room for"
-	line "this!"
+	text "Fai spazio"
+	line "per questo!"
 	done
 
 _FanClubText6::
-	text "Our Chairman is"
-	line "very vocal about"
-	cont "#MON."
+	text "Il presidente è"
+	line "un po' logorroico"
+	cont "...sui #MON."
 	done
 
 _FanClubText7::
-	text "Let's all listen"
-	line "politely to other"
-	cont "trainers!"
+	text "Ascoltiamo gli"
+	line "altri allenatori!"
 	done
 
 _FanClubText8::
-	text "If someone brags,"
-	line "brag right back!"
+	text "Se uno si vanta,"
+	line "fallo anche tu!"
 	done

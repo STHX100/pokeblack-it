@@ -1,156 +1,170 @@
 _Route20BattleText1::
-	text "The water is"
-	line "shallow here."
+	text "Qui l'acqua non"
+	line "è profonda."
 	done
 
 _Route20EndBattleText1::
-	text "Splash!"
+	db $0
+	line "Splash!"
 	prompt
 
 _Route20AfterBattleText1::
-	text "I wish I could"
-	line "ride my #MON."
+	text "Vorrei poter stare"
+	line "sui miei #MON!"
 	done
 
 _Route20BattleText2::
-	text "SEAFOAM is a"
-	line "quiet getaway!"
+	text "Le ISOLE SPUMARINE"
+	line "sono un passaggio"
+	cont "tranquillo!"
 	done
 
 _Route20EndBattleText2::
-	text "Quit it!"
+	db $0
+	line "Finiscila!"
 	prompt
 
 _Route20AfterBattleText2::
-	text "There's a huge"
-	line "cavern underneath"
-	cont "this island."
+	text "C'è un'enorme"
+	line "grotta sotto"
+	cont "quest'isola."
 	done
 
 _Route20BattleText3::
-	text "I love floating"
-	line "with the fishes!"
+	text "Nuotare con i"
+	line "pesci! Che bello!"
 	done
 
 _Route20EndBattleText3::
-	text "Yowch!"
+	text "Ahiahi!"
 	prompt
 
 _Route20AfterBattleText3::
-	text "Want to float"
-	line "with me?"
+	text "Vuoi nuotare"
+	line "con me?"
 	done
 
 _Route20BattleText4::
-	text "Are you on"
-	line "vacation too?"
+	text "Anche tu in"
+	line "vacanza?"
 	done
 
 _Route20EndBattleText4::
-	text "No"
-	line "mercy at all!"
+	db $0
+	line "Nessuna pietà!"
 	prompt
 
 _Route20AfterBattleText4::
-	text "SEAFOAM used to"
-	line "be one island!"
+	text "Le ISOLE SPUMARINE"
+	line "una volta erano"
+	cont "una sola isola!"
 	done
 
 _Route20BattleText5::
-	text "Check out my buff"
-	line "physique!"
+	text "Guarda che fisico"
+	line "che ho!"
 	done
 
 _Route20EndBattleText5::
-	text "Wimpy!"
+	db $0
+	line "Che imbranato!"
 	prompt
 
 _Route20AfterBattleText5::
-	text "I should've been"
-	line "buffing up my"
-	cont "#MON, not me!"
+	text "Dovevo fare il"
+	line "fisico ai #MON"
+	cont "e non a me!"
 	done
 
 _Route20BattleText6::
-	text "Why are you"
-	line "riding a #MON?"
-	cont "Can't you swim?"
+	text "Perché cavalchi un"
+	line "#MON? Non sai"
+	cont "nuotare?"
 	done
 
 _Route20EndBattleText6::
-	text "Ouch!"
-	line "Torpedoed!"
+	text "Ahi!"
+	line "Silurato!"
 	prompt
 
 _Route20AfterBattleText6::
-	text "Riding a #MON"
-	line "sure looks fun!"
+	text "Cavalcare un"
+	line "#MON!"
+	cont "Che trovata!"
 	done
 
 _Route20BattleText7::
-	text "I rode my bird"
-	line "#MON here!"
+	text "Sono arrivato a"
+	line "dorso del mio"
+	cont "#MON uccello!"
 	done
 
 _Route20EndBattleText7::
-	text "Oh"
-	line "no!"
+	db $0
+	line "Oh no!"
 	prompt
 
 _Route20AfterBattleText7::
-	text "My birds can't"
-	line "FLY me back!"
+	text "I miei uccelli"
+	line "non mi riportano"
+	cont "indietro in VOLO!"
 	done
 
 _Route20BattleText8::
-	text "My boy friend gave"
-	line "me big pearls!"
+	text "Il mio ragazzo mi"
+	line "ha dato delle"
+	cont "perle giganti!"
 	done
 
 _Route20EndBattleText8::
-	text "Don't"
-	line "touch my pearls!"
+	text "Non"
+	line "toccare le"
+	cont "mie perle!"
 	prompt
 
 _Route20AfterBattleText8::
-	text "Will my pearls"
-	line "grow bigger"
-	cont "inside CLOYSTER?"
+	text "Cresceranno le mie"
+	line "perle dentro a"
+	cont "CLOYSTER?"
 	done
 
 _Route20BattleText9::
-	text "I swam here from"
-	line "CINNABAR ISLAND!"
+	text "Sono venuta a"
+	line "nuoto dall'ISOLA"
+	cont "CANNELLA!"
 	done
 
 _Route20EndBattleText9::
-	text "I'm"
-	line "so disappointed!"
+	db $0
+	line "Che delusione!"
 	prompt
 
 _Route20AfterBattleText9::
-	text "#MON have"
-	line "taken over an"
-	cont "abandoned mansion"
-	cont "on CINNABAR!"
+	text "I #MON hanno"
+	line "occupato una casa"
+	cont "abbandonata sull'"
+	cont "ISOLA CANNELLA!"
 	done
 
 _Route20BattleText10::
-	text "CINNABAR, in the"
-	line "west, has a LAB"
-	cont "for #MON."
+	text "C'è un laboratorio"
+	line "#MON a Ovest,"
+	cont "sull'ISOLA"
+	cont "CANNELLA."
 	done
 
 _Route20EndBattleText10::
-	text "Wait!"
+	db $0
+	line "Aspetta!"
 	prompt
 
 _Route20AfterBattleText10::
-	text "CINNABAR is a "
-	line "volcanic island!"
+	text "L'ISOLA CANNELLA è"
+	line "di origine"
+	cont "vulcanica!"
 	done
 
 _Route20Text12::
 _Route20Text11::
-	text "SEAFOAM ISLANDS"
+	text "ISOLE SPUMARINE"
 	done

@@ -1,44 +1,48 @@
 _AgathaBeforeBattleText::
-	text "I am AGATHA of"
-	line "the ELITE FOUR!"
+	text "Sono AGATHA dei"
+	line "SUPERQUATTRO!"
 
-	para "OAK's taken a lot"
-	line "of interest in"
-	cont "you, child!"
+	para "OAK sembra molto"
+	line "interessato a te,"
+	cont "<PLAYER>!"
 
-	para "That old duff was"
-	line "once tough and"
-	cont "handsome! That"
-	cont "was decades ago!"
+	para "Molti anni fa quel"
+	line "vecchio inutile"
+	cont "era forte e"
+	cont "affascinante!"
+	
 
-	para "Now he just wants"
-	line "to fiddle with"
-	cont "his #DEX! He's"
-	cont "wrong! #MON"
-	cont "are for fighting!"
+	para "Ora vuole solo"
+	line "sistemare il suo"
+	cont "#DEX! Ma ha"
+	cont "torto! I #MON"
+	cont "devono lottare!"
 
-	para "<PLAYER>! I'll show"
-	line "you how a real"
-	cont "trainer fights!"
+
+	para "<PLAYER>! Ti farò"
+	line "vedere io come"
+	cont "lotta un vero"
+	cont "allenatore!"
 	done
 
 _AgathaEndBattleText::
-	text "Oh ho!"
-	line "You're something"
-	cont "special, child!"
+	text "Oh oh!"
+	line "Tu sì che sei"
+	cont "davvero speciale!"
 	prompt
 
 _AgathaAfterBattleText::
-	text "You win! I see"
-	line "what the old duff"
-	cont "sees in you now!"
+	text "Hai vinto! Ora"
+	line "capisco cosa ha"
+	cont "visto in te quel"
+	cont "vecchio inutile!"
 
-	para "I have nothing"
-	line "else to say! Run"
-	cont "along now, child!"
+	para "Non ho altro da"
+	line "dirti! Va avanti" 
+	cont "ora, campione!"
 	done
 
 _AgathaDontRunAwayText::
-	text "Someone's voice:"
-	line "Don't run away!"
+	text "Una voce:"
+	line "Non scappare!"
 	done

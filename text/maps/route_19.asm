@@ -1,157 +1,164 @@
 _Route19BattleText1::
-	text "Have to warm up"
-	line "before my swim!"
+	text "Prima di nuotare"
+	line "bisogna fare del"
+	cont "riscaldamento!"
 	done
 
 _Route19EndBattleText1::
-	text "All"
-	line "warmed up!"
+	text "Ora sì"
+	line "che mi sono"
+	cont "riscaldato!"
 	prompt
 
 _Route19AfterBattleText1::
-	text "Thanks, kid! I'm"
-	line "ready for a swim!"
+	text "Grazie! Ora posso"
+	line "tuffarmi!"
 	done
 
 _Route19BattleText2::
-	text "Wait! You'll have"
-	line "a heart attack!"
+	text "Aspetta! Ti verrà"
+	line "un accidente!"
 	done
 
 _Route19EndBattleText2::
-	text "Ooh!"
-	line "That's chilly!"
+	text "Ooh!!"
+	line "È fredda!"
 	prompt
 
 _Route19AfterBattleText2::
-	text "Watch out for"
+	text "Attenzione a"
 	line "TENTACOOL!"
 	done
 
 _Route19BattleText3::
-	text "I love swimming!"
-	line "What about you?"
+	text "Mi piace nuotare!"
+	line "E a te?"
 	done
 
 _Route19EndBattleText3::
-	text "Belly"
-	line "flop!"
+	db $0
+	line "Che spanciata!"
 	prompt
 
 _Route19AfterBattleText3::
-	text "I can beat #MON"
-	line "at swimming!"
+	text "Nuoto meglio dei"
+	line "#MON!"
 	done
 
 _Route19BattleText4::
-	text "What's beyond the"
-	line "horizon?"
+	text "Che c'è oltre"
+	line "l'orizzonte?"
 	done
 
 _Route19EndBattleText4::
-	text "Glub!"
+	db $0
+	line "Glu! Glu!"
 	prompt
 
 _Route19AfterBattleText4::
-	text "I see a couple of"
-	line "islands!"
+	text "Vedo un paio"
+	line "di isole!"
 	done
 
 _Route19BattleText5::
-	text "I tried diving"
-	line "for #MON, but"
-	cont "it was a no go!"
+	text "Mi sono tuffato"
+	line "per prendere dei"
+	cont "#MON, ma zero!"
 	done
 
 _Route19EndBattleText5::
-	text "Help!"
+	text "Aiuto!"
 	prompt
 
 _Route19AfterBattleText5::
-	text "You have to fish"
-	line "for sea #MON!"
+	text "Cerca di pescare"
+	line "#MON di mare!"
 	done
 
 _Route19BattleText6::
-	text "I look at the"
-	line "sea to forget!"
+	text "Guardo il mare"
+	line "per dimenticare!"
 	done
 
 _Route19EndBattleText6::
-	text "Ooh!"
-	line "Traumatic!"
+	text "Oh!"
+	line "Che trauma!"
 	prompt
 
 _Route19AfterBattleText6::
-	text "I'm looking at the"
-	line "sea to forget!"
+	text "Guardo il mare"
+	line "per dimenticare!"
 	done
 
 _Route19BattleText7::
-	text "Oh, I just love"
-	line "your ride! Can I"
-	cont "have it if I win?"
+	text "A cavallo del"
+	line "#MON! Se vinco"
+	cont "me lo dai?"
 	done
 
 _Route19EndBattleText7::
-	text "Oh!"
-	line "I lost!"
+	text "Ho"
+	line "perso! Peccato!"
 	prompt
 
 _Route19AfterBattleText7::
-	text "It's still a long"
-	line "way to go to"
-	cont "SEAFOAM ISLANDS."
+	text "La via per le"
+	line "ISOLE SPUMARINE"
+	cont "è ancora lunga!"
 	done
 
 _Route19BattleText8::
-	text "Swimming's great!"
-	line "Sunburns aren't!"
+	text "Nuotare è bello!"
+	line "Scottarsi al sole"
+	cont "invece no!"
 	done
 
 _Route19EndBattleText8::
-	text "Shocker!"
+	db $0
+	line "Che orrore!"
 	prompt
 
 _Route19AfterBattleText8::
-	text "My boy friend"
-	line "wanted to swim to"
-	cont "SEAFOAM ISLANDS."
+	text "Il mio ragazzo"
+	line "voleva nuotare"
+	cont "fino alle"
+	cont "ISOLE SPUMARINE."
 	done
 
 _Route19BattleText9::
-	text "These waters are"
-	line "treacherous!"
+	text "Queste sono acque"
+	line "traditrici!"
 	done
 
 _Route19EndBattleText9::
-	text "Ooh!"
-	line "Dangerous!"
+	text "Oh!"
+	line "È pericoloso!"
 	prompt
 
 _Route19AfterBattleText9::
-	text "I got a cramp!"
-	line "Glub, glub..."
+	text "Mi è venuto un"
+	line "crampo! Gulp!"
 	done
 
 _Route19BattleText10::
-	text "I swam here, but"
-	line "I'm tired."
+	text "Sono venuta a"
+	line "nuoto. Ma ora"
+	cont "sono stanca!"
 	done
 
 _Route19EndBattleText10::
-	text "I'm"
-	line "exhausted..."
+	db $0
+	line "Sono sfinita!"
 	prompt
 
 _Route19AfterBattleText10::
-	text "LAPRAS is so big,"
-	line "it must keep you"
-	cont "dry on water."
+	text "LAPRAS è enorme,"
+	line "su di lui non ti"
+	cont "bagni di sicuro."
 	done
 
 _Route19Text11::
-	text "SEA ROUTE 19"
-	line "FUCHSIA CITY -"
-	cont "SEAFOAM ISLANDS"
+	text "PERCORSO MARINO 19"
+	line "FUCSIAPOLI -"
+	cont "ISOLE SPUMARINE"
 	done

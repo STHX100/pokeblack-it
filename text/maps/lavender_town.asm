@@ -1,64 +1,69 @@
 _LavenderTownText_4413c::
-	text "Do you believe in"
-	line "GHOSTs?"
+	text "Credi agli"
+	line "SPETTRI?"
 	done
 
 _LavenderTownText_44141::
-	text "Really? So there"
-	line "are believers..."
+	text "Davvero? Allora"
+	line "sei un credulone."
 	done
 
 _LavenderTownText_44146::
-	text "Hahaha, I guess"
-	line "not."
+	text "Ahahah! No, vero?"
+	line "Certo..."
 
-	para "That white hand"
-	line "on your shoulder,"
-	cont "it's not real."
+	para "...la mano bianca"
+	line "sulla tua spalla"
+	cont "è finta?!"
 	done
 
 _LavenderTownText2::
-	text "This town is known"
-	line "as the grave site"
-	cont "of #MON."
+	text "Questa città è"
+	line "nota come il"
+	cont "cimitero dei"
+	cont "#MON."
 
-	para "Memorial services"
-	line "are held in"
-	cont "#MON TOWER."
+	para "I funerali si"
+	line "celebrano nella"
+	cont "TORRE #MON."
 	done
 
 _LavenderTownText3::
-	text "GHOSTs appeared"
-	line "in #MON TOWER."
+	text "Sono apparsi degli"
+	line "SPETTRI nella"
+	cont "TORRE #MON."
 
-	para "I think they're"
-	line "the spirits of"
-	cont "#MON that the"
-	cont "ROCKETs killed."
+	para "Sono gli spiriti"
+	line "dei #MON"
+	cont "assassinati dai"
+	cont "ROCKET."
 	done
 
 _LavenderTownText4::
-	text "LAVENDER TOWN"
-	line "The Noble Purple"
-	cont "Town"
+	text "LAVANDONIA"
+	line "Nobile Città"
+	cont "Viola"
 	done
 
 _LavenderTownText5::
-	text "New SILPH SCOPE!"
+	text "La nuova"
+	line "SPETTROSONDA!"
 
-	para "Make the Invisible"
-	line "Plain to See!"
+	para "Rende visibile"
+	line "l'invisibile!"
 
-	para "SILPH CO."
+	para "SILPH SpA"
 	done
 
 _LavenderTownText8::
-	text "LAVENDER VOLUNTEER"
-	line "#MON HOUSE"
+	text "CENTRO #MON"
+	line "VOLONTARIO di"
+	cont "LAVANDONIA"
 	done
 
 _LavenderTownText9::
-	text "May the Souls of"
-	line "#MON Rest Easy"
-	cont "#MON TOWER"
+	text "TORRE #MON"
+	line "Che le anime dei"
+	cont "#MON riposino"
+	cont "in pace!"
 	done

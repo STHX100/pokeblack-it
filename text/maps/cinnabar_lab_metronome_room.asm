@@ -1,63 +1,63 @@
 _TM35PreReceiveText::
-	text "Tch-tch-tch!"
-	line "I made a cool TM!"
+	text "Tac-tac! Ho fatto"
+	line "una MT geniale!"
 
-	para "It can cause all"
-	line "kinds of fun!"
+	para "È strepitosamente"
+	line "divertente!"
 	prompt
 
 _ReceivedTM35Text::
-	text "<PLAYER> received "
-	line "@"
+	text "<PLAYER> riceve"
+	line "la @"
 	TX_RAM wcf4b
 	text "!@@"
 
 _TM35ExplanationText::
-	text "Tch-tch-tch!"
-	line "That's the sound"
-	cont "of a METRONOME!"
+	text "Tac-tac-tac!"
+	line "È il suono di un"
+	cont "METRONOMO!"
 
-	para "It tweaks your"
-	line "#MON's brain"
-	cont "into using moves"
-	cont "it doesn't know!"
+	para "Il cervello dei"
+	line "tuoi #MON"
+	cont "userà tecniche"
+	cont "che non conosce!"
 	done
 
 _TM35NoRoomText::
-	text "Your pack is"
-	line "crammed full!"
+	text "Il tuo zaino è"
+	line "pieno zeppo!"
 	done
 
 _Lab3Text2::
-	text "EEVEE can evolve"
-	line "into 1 of 3 kinds"
-	cont "of #MON."
+	text "EEVEE si evolve"
+	line "in 1 di 3 diversi"
+	cont "tipi di #MON."
 	done
 
 _Lab3Text3::
-	text "There's an e-mail"
-	line "message!"
+	text "C'è un messaggio"
+	line "e-mail!"
 
 	para "..."
 
-	para "The 3 legendary"
-	line "bird #MON are"
-	cont "ARTICUNO, ZAPDOS"
-	cont "and MOLTRES."
+	para "I 3 leggendari"
+	line "#MON uccello"
+	cont "sono ARTICUNO,"
+	cont "ZAPDOS e MOLTRES."
 
-	para "Their whereabouts"
-	line "are unknown."
+	para "Localizzazione"
+	line "ignota."
 
-	para "We plan to explore"
-	line "the cavern close"
-	cont "to CERULEAN."
+	para "Esploreremo"
+	line "la grotta vicino"
+	cont "a CELESTOPOLI."
 
-	para "From: #MON"
-	line "RESEARCH TEAM"
+	para "Da: SQUADRA "
+	line "RICERCA #MON"
 
 	para "..."
 	done
 
 _Lab3Text5::
-	text "An amber pipe!"
+	text "Una pipa d'ambra!"
 	done

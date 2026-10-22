@@ -1,96 +1,96 @@
 _CopycatsHouse2FText_5ccd4::
-	text "<PLAYER>: Hi! Do"
-	line "you like #MON?"
+	text "<PLAYER>: Ciao!"
+	line "ti piacciono i"
+	cont "#MON?"
 
-	para "<PLAYER>: Uh no, I"
-	line "just asked you."
+	para "<PLAYER>: Eh?"
+	line "Te l'ho appena"
+	cont "chiesto io."
 
-	para "<PLAYER>: Huh?"
-	line "You're strange!"
+	para "<PLAYER>: Eh?"
+	line "Sei molto strana!"
 
-	para "COPYCAT: Hmm?"
-	line "Quit mimicking?"
+	para "COPIONA: Smettere"
+	line "di imitare?"
 
-	para "But, that's my"
-	line "favorite hobby!"
+	para "Ma è il mio hobby"
+	line "preferito!"
 	prompt
 
 _TM31PreReceiveText::
-	text "Oh wow!"
-	line "A # DOLL!"
+	text "Wow! Una"
+	line "# BAMBOLA!"
 
-	para "For me?"
-	line "Thank you!"
+	para "Per me?"
+	line "Grazie!"
 
-	para "You can have"
-	line "this, then!"
+	para "Io ti do questo!"
 	prompt
 
 _ReceivedTM31Text::
-	text "<PLAYER> received"
-	line "@"
+	text "<PLAYER> riceve"
+	line "la @"
 	TX_RAM wcf4b
 	text "!@@"
 
 _TM31ExplanationText1::
 	db $0
-	para "TM31 contains my"
-	line "favorite, MIMIC!"
+	para "La MT31 contiene"
+	line "MIMICA!"
 
-	para "Use it on a good"
+	para "Usala su un buon"
 	line "#MON!@@"
 
 _TM31ExplanationText2::
-	text "<PLAYER>: Hi!"
-	line "Thanks for TM31!"
+	text "<PLAYER>: Grazie"
+	line "per la MT31!"
 
-	para "<PLAYER>: Pardon?"
+	para "<PLAYER>: Come?"
 
-	para "<PLAYER>: Is it"
-	line "that fun to mimic"
-	cont "my every move?"
+	para "<PLAYER>: È così"
+	line "bello imitare"
+	cont "ogni mia mossa?"
 
-	para "COPYCAT: You bet!"
-	line "It's a scream!"
+	para "COPIONA: Bello?"
+	line "È favoloso!"
 	done
 
 _TM31NoRoomText::
-	text "Don't you want"
-	line "this?@@"
+	text "Non vuoi questo?@@"
 
 _CopycatsHouse2FText2::
-	text "DODUO: Giiih!"
+	text "DODUO: Dododù!"
 
-	para "MIRROR MIRROR ON"
-	line "THE WALL, WHO IS"
-	cont "THE FAIREST ONE"
-	cont "OF ALL?"
+	para "SPECCHIO DELLE MIE"
+	line "BRAME CHI È LA"
+	cont "PIÙ BELLA DEL"
+	cont "REAME?"
 	done
 
 _CopycatsHouse2FText3::
-	text "This is a rare"
-	line "#MON! Huh?"
-	cont "It's only a doll!"
+	text "Un #MON raro!"
+	line "No, è solo una"
+	cont "bambola!"
 	done
 
 _CopycatsHouse2FText6::
-	text "A game with MARIO"
-	line "wearing a bucket"
-	cont "on his head!"
+	text "Un gioco di MARIO"
+	line "con un secchio"
+	cont "sulla testa!"
 	done
 
 _CopycatsHouse2FText_5cd17::
 	text "..."
 
-	para "My Secrets!"
+	para "I miei segreti!"
 
-	para "Skill: Mimicry!"
-	line "Hobby: Collecting"
-	cont "dolls!"
-	cont "Favorite #MON:"
+	para "Capacità: Imitare"
+	line "Hobby: Collezioni"
+	cont "di bambole."
+	cont "#MON favorito:"
 	cont "CLEFAIRY!"
 	done
 
 _CopycatsHouse2FText_5cd1c::
-	text "Huh? Can't see!"
+	text "Eh? Non vedo!"
 	done

@@ -1,16 +1,17 @@
 _ViridianPokeCenterText2::
-	text "You can use that"
-	line "PC in the corner."
+	text "Si può usare il PC"
+	line "là nell'angolo."
 
-	para "The receptionist"
-	line "told me. So kind!"
+	para "Me l'hanno detto"
+	line "alla reception,"
+	cont "che gentili!"
 	done
 
 _ViridianPokeCenterText3::
-	text "There's a #MON"
-	line "CENTER in every"
-	cont "town ahead."
+	text "Troverai un CENTRO"
+	line "#MON in ogni"
+	cont "città."
 
-	para "They don't charge"
-	line "any money either!"
+	para "Sono"
+	line "tutti gratis!"
 	done

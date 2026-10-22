@@ -1,36 +1,37 @@
 _Museum2FText1::
-	text "MOON STONE?"
+	text "PIETRALUNARE?"
 
-	para "What's so special"
-	line "about it?"
+	para "Cosa c'è di tanto"
+	line "speciale?"
 	done
 
 _Museum2FText2::
-	text "July 20, 1969!"
+	text "20 luglio 1969!"
 
-	para "The 1st lunar"
-	line "landing!"
+	para "Il primo uomo"
+	line "sulla luna!"
 
-	para "I bought a color"
-	line "TV to watch it!"
+	para "Mi sono comprato"
+	line "una TV a colori"
+	cont "per guardarlo!"
 	done
 
 _Museum2FText3::
-	text "We have a space"
-	line "exhibit now."
+	text "Ora c'è una mostra"
+	line "sullo spazio."
 	done
 
 _Museum2FText4::
-	text "I want a PIKACHU!"
-	line "It's so cute!"
+	text "Voglio un PIKACHU!"
+	line "È così carino!"
 
-	para "I asked my Daddy"
-	line "to catch me one!"
+	para "Ho chiesto a papà"
+	line "di prenderne uno!"
 	done
 
 _Museum2FText5::
-	text "Yeah, a PIKACHU"
-	line "soon, I promise!"
+	text "Sì promesso, avrai"
+	line "il tuo PIKACHU! "
 	done
 
 _Museum2FText6::
@@ -39,7 +40,7 @@ _Museum2FText6::
 	done
 
 _Museum2FText7::
-	text "Meteorite that"
-	line "fell on MT.MOON."
-	cont "(MOON STONE?)"
+	text "Meteorite caduto"
+	line "su MONTELUNA"
+	cont "(PIETRALUNARE?)"
 	done

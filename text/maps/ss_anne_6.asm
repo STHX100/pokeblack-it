@@ -1,69 +1,75 @@
 _SSAnne6Text1::
-	text "You, mon petit!"
-	line "We're busy here!"
-	cont "Out of the way!"
+	text "Ehi tu, moccioso!"
+	line "Abbiamo da fare!"
+
+	para "Fuori dai piedi!"
 	done
 
 _SSAnne6Text2::
-	text "I saw an odd ball"
-	line "in the trash."
+	text "Ho visto una palla"
+	line "strana nella"
+	cont "spazzatura."
 	done
 
 _SSAnne6Text3::
-	text "I'm so busy I'm"
-	line "getting dizzy!"
+	text "Sono così occupato"
+	line "che mi gira"
+	cont "la testa!"
 	done
 
 _SSAnne6Text4::
-	text "Hum-de-hum-de-"
-	line "ho..."
+	text "Perché capitano"
+	line "tutte a me?"
 
-	para "I peel spuds"
-	line "every day!"
-	cont "Hum-hum..."
+	para "Tutti i giorni qui"
+	line "a pelar patate!"
+	cont "Che penitenza!"
 	done
 
 _SSAnne6Text5::
-	text "Did you hear about"
+	text "Hai sentito di"
 	line "SNORLAX?"
 
-	para "All it does is"
-	line "eat and sleep!"
+	para "Non fa altro che"
+	line "mangiare e"
+	cont "dormire!"
 	done
 
 _SSAnne6Text6::
-	text "Snivel...Sniff..."
+	text "Uffa!!! Uff!!!"
 
-	para "I only get to"
-	line "peel onions..."
-	cont "Snivel..."
+	para "Sempre io a"
+	line "sbucciar cipolle!"
+	cont "Uffa!!!"
 	done
 
 _SSAnne6Text_61807::
-	text "Er-hem! Indeed I"
-	line "am le CHEF!"
+	text "Allora! Le CHEF"
+	line "c'est moi!"
 
-	para "Le main course is"
+	para "Voilà le menu!"
 	prompt
 
 _SSAnne6Text_6180c::
 	text "Salmon du Salad!"
 
-	para "Les guests may"
-	line "gripe it's fish"
-	cont "again, however!"
+	para "Forse gli ospiti"
+	line "diranno"
+	cont "“Uff, sempre"
+	cont "pesce!”"
 	done
 
 _SSAnne6Text_61811::
-	text "Eels au Barbecue!"
+	text "Anguille au"
+	line "Barbecue!"
 
-	para "Les guests will"
-	line "mutiny, I fear."
+	para "Penso che ci sarà"
+	line "un ammutinamento!"
 	done
 
 _SSAnne6Text_61816::
-	text "Prime Beef Steak!"
+	text "Bistecca ai ferri!"
 
-	para "But, have I enough"
-	line "fillets du beef?"
+	para "Ma avrò abbastanza"
+	line "filet de manzo?"
 	done

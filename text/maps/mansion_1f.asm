@@ -1,29 +1,30 @@
 _Mansion1BattleText2::
-	text "Who are you? There"
-	line "shouldn't be"
-	cont "anyone here."
+	text "Chi sei? Nessuno"
+	line "può stare qui!"
 	done
 
 _Mansion1EndBattleText2::
-	text "Ouch!"
+	text "Ahi!"
 	prompt
 
 _Mansion1AfterBattleText2::
-	text "A key? I don't"
-	line "know what you're"
-	cont "talking about."
+	text "Una chiave?"
+	line "Non so di cosa"
+	cont "stai parlando!"
 	done
 
 _MansionSwitchText::
-	text "A secret switch!"
+	text "Un pulsante"
+	line "segreto!"
 
-	para "Press it?"
+	para "Devo premerlo?"
 	done
 
 _MansionSwitchPressedText::
-	text "Who wouldn't?"
+	text "Chi non"
+	line "lo farebbe?"
 	prompt
 
 _MansionSwitchNotPressedText::
-	text "Not quite yet!"
+	text "Non ancora!"
 	done

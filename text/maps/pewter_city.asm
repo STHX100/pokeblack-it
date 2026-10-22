@@ -1,117 +1,118 @@
 _PewterCityText1::
-	text "It's rumored that"
-	line "CLEFAIRYs came"
-	cont "from the moon!"
+	text "Pare che CLEFAIRY"
+	line "venga dalla luna!"
 
-	para "They appeared "
-	line "after MOON STONE"
-	cont "fell on MT.MOON."
+	para "È apparso quando"
+	line "la PIETRALUNARE"
+	cont "è caduta su"
+	cont "MONTELUNA!"
 	done
 
 _PewterCityText2::
-	text "There aren't many"
-	line "serious #MON"
-	cont "trainers here!"
+	text "Non ci sono tanti"
+	line "allenatori di"
+	cont "#MON seri qui!"
 
-	para "They're all like"
-	line "BUG CATCHERs,"
-	cont "but PEWTER GYM's"
-	cont "BROCK is totally"
-	cont "into it!"
+	para "Tutti come quel"
+	line "PIGLIAMOSCHE! Si"
+	cont "salva solo BROCK"
+	cont "della PALESTRA di"
+	cont "PLUMBEOPOLI!"
 	done
 
 _PewterCityText_193f1::
-	text "Did you check out"
-	line "the MUSEUM?"
+	text "Sei già stato"
+	line "al MUSEO?"
 	done
 
 _PewterCityText_193f6::
-	text "Weren't those"
-	line "fossils from MT."
-	cont "MOON amazing?"
+	text "Interessanti"
+	line "i fossili trovati"
+	cont "su MONTELUNA, no?"
 	done
 
 _PewterCityText_193fb::
-	text "Really?"
-	line "You absolutely"
-	cont "have to go!"
+	text "No? Devi andarci"
+	line "assolutamente!"
 	done
 
 _PewterCityText13::
-	text "It's right here!"
-	line "You have to pay"
-	cont "to get in, but"
-	cont "it's worth it!"
-	cont "See you around!"
+	text "È proprio qui! Si"
+	line "paga per entrare,"
+	cont "ma ne vale"
+	cont "la pena! Ciao!"
 	done
 
 _PewterCityText_19427::
-	text "Psssst!"
-	line "Do you know what"
-	cont "I'm doing?"
+	text "Pssss!"
+	line "Sai cosa faccio?"
 	done
 
 _PewterCityText_1942c::
-	text "That's right!"
-	line "It's hard work!"
+	text "Esatto! È un"
+	line "lavoro duro!"
 	done
 
 _PewterCityText_19431::
-	text "I'm spraying REPEL"
-	line "to keep #MON"
-	cont "out of my garden!"
+	text "Spruzzo il"
+	line "REPELLENTE per"
+	cont "tenere lontano i"
+	cont "#MON dal mio"
+	cont "giardino!"
 	done
 
 _PewterCityText_1945d::
-	text "You're a trainer"
-	line "right? BROCK's"
-	cont "looking for new"
-	cont "challengers!"
-	cont "Follow me!"
+	text "Sei un allenatore,"
+	line "vero? BROCK sta"
+	cont "cercando nuovi"
+	cont "sfidanti. Vieni!"
 	done
 
 _PewterCityText14::
-	text "If you have the"
-	line "right stuff, go"
-	cont "take on BROCK!"
+	text "Se hai la stoffa,"
+	line "allora vai a"
+	cont "sfidare BROCK!"
 	done
 
 _PewterCityText6::
-	text "TRAINER TIPS"
+	text "CONSIGLI UTILI"
 
-	para "Any #MON that"
-	line "takes part in"
-	cont "battle, however"
-	cont "short, earns EXP!"
+	para "Tutti i #MON"
+	line "impegnati in una"
+	cont "lotta, seppure"
+	cont "breve, crescono"
+	cont "di ESPERIENZA!"
 	done
 
 _PewterCityText7::
-	text "NOTICE!"
+	text "AVVISO!"
 
-	para "Thieves have been"
-	line "stealing #MON"
-	cont "fossils at MT."
-	cont "MOON! Please call"
-	cont "PEWTER POLICE"
-	cont "with any info!"
+	para "Sono stati rubati"
+	line "i fossili #MON"
+	cont "da MONTELUNA!"
+	cont "Chi ne ha notizia"
+	cont "chiami la POLIZIA"
+	cont "di PLUMBEOPOLI!"
 	done
 
 _PewterCityText10::
-	text "PEWTER MUSEUM"
-	line "OF SCIENCE"
+	text "MUSEO della"
+	line "SCIENZA di"
+	cont "PLUMBEOPOLI"
 	done
 
 _PewterCityText11::
-	text "PEWTER CITY"
-	line "#MON GYM"
-	cont "LEADER: BROCK"
+	text "CAPOPALESTRA di"
+	line "PLUMBEOPOLI:"
+	cont "BROCK"
 
-	para "The Rock Solid"
-	line "#MON Trainer!"
+	para "L'allenatore di"
+	line "#MON più forte"
+	cont "di una roccia!"
 	done
 
 _PewterCityText12::
-	text "PEWTER CITY"
-	line "A Stone Gray"
-	cont "City"
+	text "PLUMBEOPOLI"
+	line "Città Grigia"
+	cont "come il Piombo"
 	done

@@ -1,156 +1,162 @@
 _Route25BattleText1::
-	text "Local trainers"
-	line "come here to"
-	cont "practice!"
+	text "Gli allenatori del"
+	line "luogo vengono qui"
+	cont "a fare pratica!"
 	done
 
 _Route25EndBattleText1::
-	text "You're"
-	line "decent."
+	text "Fantastico!"
+	line "Sei in gamba!"
 	prompt
 
 _Route25AfterBattleText1::
-	text "All #MON have"
-	line "weaknesses. It's"
-	cont "best to raise"
-	cont "different kinds."
+	text "Ogni #MON ha"
+	line "dei punti deboli."
+	cont "Devi addestrarne"
+	cont "varie specie."
 	done
 
 _Route25BattleText2::
-	text "Dad took me to a"
-	line "great party on"
-	cont "S.S.ANNE at"
-	cont "VERMILION CITY!"
+	text "Papà mi ha portato"
+	line "a una bella festa"
+	cont "sulla M/N ANNA"
+	cont "ad ARANCIOPOLI!"
 	done
 
 _Route25EndBattleText2::
-	text "I'm"
-	line "not mad!"
+	text "Non ho"
+	line "perso la calma!"
 	prompt
 
 _Route25AfterBattleText2::
-	text "On S.S.ANNE, I"
-	line "saw trainers from"
-	cont "around the world."
+	text "Sulla M/N ANNA"
+	line "ho incontrato"
+	cont "allenatori di"
+	cont "tutto il mondo!"
 	done
 
 _Route25BattleText3::
-	text "I'm a cool guy."
-	line "I've got a girl"
-	cont "friend!"
+	text "Sono un tipo"
+	line "giusto, io! Ho la"
+	cont "ragazza!"
 	done
 
 _Route25EndBattleText3::
-	text "Aww,"
-	line "darn..."
+	text "Ah,"
+	line "accidenti..."
 	prompt
 
 _Route25AfterBattleText3::
-	text "Oh well. My girl"
-	line "will cheer me up."
+	text "Va beh, la mia"
+	line "ragazza mi"
+	cont "consolerà!"
 	done
 
 _Route25BattleText4::
-	text "Hi! My boy"
-	line "friend is cool!"
+	text "Ciao! Il mio"
+	line "ragazzo è forte!"
 	done
 
 _Route25EndBattleText4::
-	text "I was in"
-	line "bad condition!"
+	text "Non ero"
+	line "proprio in forma!"
 	prompt
 
 _Route25AfterBattleText4::
-	text "I wish my guy was"
-	line "as good as you!"
+	text "Ah, vorrei che"
+	line "anche il mio tipo"
+	cont "fosse come te!"
 	done
 
 _Route25BattleText5::
-	text "I knew I had to"
-	line "fight you!"
+	text "Lo sapevo che"
+	line "ci saremmo"
+	cont "scontrati!"
 	done
 
 _Route25EndBattleText5::
-	text "I knew"
-	line "I'd lose too!"
+	text "Sapevo pure"
+	line "che avrei perso!"
 	prompt
 
 _Route25AfterBattleText5::
-	text "If your #MON"
-	line "gets confused or"
-	cont "falls asleep,"
-	cont "switch it!"
+	text "Se il tuo #MON"
+	line "si addormenta"
+	cont "o è confuso,"
+	cont "sostituiscilo!"
 	done
 
 _Route25BattleText6::
-	text "My friend has a"
-	line "cute #MON."
-	cont "I'm so jealous!"
+	text "Il mio amico ha un"
+	line "#MON così"
+	cont "dolce..."
+	cont "Che invidia!"
 	done
 
 _Route25EndBattleText6::
-	text "I'm"
-	line "not so jealous!"
+	text "Non sono"
+	line "invidiosa!"
 	prompt
 
 _Route25AfterBattleText6::
-	text "You came from MT."
-	line "MOON? May I have"
-	cont "a CLEFAIRY?"
+	text "Vieni da"
+	line "MONTELUNA? Mi"
+	cont "dai un CLEFAIRY?"
 	done
 
 _Route25BattleText7::
-	text "I just got down"
-	line "from MT.MOON,"
-	cont "but I'm ready!"
+	text "Torno adesso"
+	line "da MONTELUNA"
+	cont "ma posso farcela!"
 	done
 
 _Route25EndBattleText7::
-	text "You"
-	line "worked hard!"
+	db $0
+	line "Ottimo lavoro!"
 	prompt
 
 _Route25AfterBattleText7::
-	text "Drat!"
-	line "A ZUBAT bit me"
-	cont "back in there."
+	text "Accidentaccio!"
+	line "Mi ha morso uno"
+	cont "ZUBAT!"
 	done
 
 _Route25BattleText8::
-	text "I'm off to see a"
-	line "#MON collector"
-	cont "at the cape!"
+	text "Vado a trovare"
+	line "un collezionista"
+	cont "di #MON!"
 	done
 
 _Route25EndBattleText8::
-	text "You"
-	line "got me."
+	db $0
+	line "Hai vinto tu!"
 	prompt
 
 _Route25AfterBattleText8::
-	text "The collector has"
-	line "many rare kinds"
-	cont "of #MON."
+	text "Il collezionista"
+	line "ha molti"
+	cont "#MON rari."
 	done
 
 _Route25BattleText9::
-	text "You're going to"
-	line "see BILL? First,"
-	cont "let's fight!"
+	text "Stai andando da"
+	line "BILL? Prima"
+	cont "però in guardia!"
 	done
 
 _Route25EndBattleText9::
-	text "You're"
-	line "something."
+	text "Non"
+	line "sei niente male!"
 	prompt
 
 _Route25AfterBattleText9::
-	text "The trail below"
-	line "is a shortcut to"
-	cont "CERULEAN CITY."
+	text "Il percorso là in"
+	line "basso è una"
+	cont "scorciatoia per"
+	cont "CELESTOPOLI."
 	done
 
 _Route25Text11::
-	text "SEA COTTAGE"
-	line "BILL lives here!"
+	text "MIRAMARE"
+	line "Qui vive BILL!"
 	done

@@ -1,19 +1,19 @@
 _Route22GateText_1e704::
-	text "Only truly skilled"
-	line "trainers are"
-	cont "allowed through."
+	text "Solo i veri"
+	line "allenatori"
+	cont "possono passare."
 
-	para "You don't have the"
-	line "BOULDERBADGE yet!@@"
+	para "Non hai ancora la"
+	line "MEDAGLIA SASSO!@@"
 
 _Route22GateText_1e715::
 	db $0
-	para "The rules are"
-	line "rules. I can't"
-	cont "let you pass."
+	para "Le regole sono"
+	line "regole. Non puoi"
+	cont "passare!"
 	done
 
 _Route22GateText_1e71a::
-	text "Oh! That is the"
-	line "BOULDERBADGE!"
-	cont "Go right ahead!@@"
+	text "Oh! Ma questa è la"
+	line "MEDAGLIA SASSO!"
+	cont "Passa pure!@@"

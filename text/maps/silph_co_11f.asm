@@ -1,134 +1,134 @@
 _SilphCoPresidentText::
-	text "PRESIDENT: Thank"
-	line "you for saving"
-	cont "SILPH!"
+	text "PRESIDENTE:"
+	line "Grazie per aver"
+	cont "salvato la SILPH!"
 
-	para "I will never"
-	line "forget you saved"
-	cont "us in our moment"
-	cont "of peril!"
+	para "Non dimenticherò"
+	line "mai che ci hai"
+	cont "salvato in un"
+	cont "momento critico!"
 
-	para "I have to thank"
-	line "you in some way!"
+	para "Devo sdebitarmi"
+	line "in qualche modo!"
 
-	para "Because I am rich,"
-	line "I can give you"
-	cont "anything!"
+	para "Sono ricco e ti"
+	line "posso dare quello"
+	cont "che più desideri!"
 
-	para "Here, maybe this"
-	line "will do!"
+	para "Ecco, questo fa"
+	line "al caso tuo!"
 	prompt
 
 _ReceivedSilphCoMasterBallText::
-	text "<PLAYER> got a"
-	line "@"
+	text "<PLAYER> riceve"
+	line "la @"
 	TX_RAM wcf4b
 	text "!@@"
 
 _SilphCo10Text_6231c::
-	text "PRESIDENT: You"
-	line "can't buy that"
-	cont "anywhere!"
+	text "PRESIDENTE: Non"
+	line "si compra da"
+	cont "nessuna parte!"
 
-	para "It's our secret"
-	line "prototype MASTER"
-	cont "BALL!"
+	para "È il prototipo"
+	line "segreto della"
+	cont "MASTER BALL!"
 
-	para "It will catch any"
-	line "#MON without"
-	cont "fail!"
+	para "Può catturare ogni"
+	line "tipo di #MON!"
 
-	para "You should be"
-	line "quiet about using"
-	cont "it, though."
+	para "Ti raccomando di"
+	line "usarla con"
+	cont "prudenza."
 	done
 
 _SilphCoMasterBallNoRoomText::
-	text "You have no"
-	line "room for this."
+	text "Non hai più spazio"
+	line "per questo."
 	done
 
 _SilphCo11Text2::
-	text "SECRETARY: Thank"
-	line "you for rescuing"
-	cont "all of us!"
+	text "SEGRETARIA:"
+	line "Grazie per averci"
+	cont "tratto in salvo!"
 
-	para "We admire your"
-	line "courage."
+	para "Ammiriamo il"
+	line "tuo coraggio."
 	done
 
 _SilphCo11Text3::
-	text "Ah <PLAYER>!"
-	line "So we meet again!"
+	text "Ciao <PLAYER>!"
+	line "Eccoti di nuovo!"
 
-	para "The PRESIDENT and"
-	line "I are discussing"
-	cont "a vital business"
-	cont "proposition."
+	para "Il PRESIDENTE e io"
+	line "stiamo valutando"
+	cont "un affare molto"
+	cont "importante!"
 
-	para "Keep your nose"
-	line "out of grown-up"
-	cont "matters..."
+	para "Non t'immischiare"
+	line "negli affari"
+	cont "dei grandi..."
 
-	para "Or, experience a"
-	line "world of pain!"
+	para "o patirai le pene"
+	line "dell'inferno!"
 	done
 
 _SilphCo10Text_62330::
-	text "Arrgh!!"
-	line "I lost again!?"
+	text "Grrr!!!"
+	line "Perso di nuovo!"
 	prompt
 
 _SilphCo10Text_62335::
-	text "Blast it all!"
-	line "You ruined our"
-	cont "plans for SILPH!"
+	text "Maledizione! Hai"
+	line "mandato a monte i"
+	cont "nostri piani per"
+	cont "la SILPH!"
 
-	para "But, TEAM ROCKET"
-	line "will never fall!"
+	para "Ma TEAM ROCKET"
+	line "non cederà mai!"
 
-	para "<PLAYER>! Never"
-	line "forget that all"
-	cont "#MON exist"
-	cont "for TEAM ROCKET!"
+	para "<PLAYER>! Un giorno"
+	line "TEAM ROCKET avrà"
+	cont "tutti i #MON!"
+	cont "Ricordatelo!"
 
-	para "I must go, but I"
-	line "shall return!"
+	para "Devo andare, ma"
+	line "ritornerò!"
 	done
 
 _SilphCo11BattleText1::
-	text "Stop right there!"
-	line "Don't you move!"
+	text "Altolà! Non"
+	line "osare muoverti!"
 	done
 
 _SilphCo11EndBattleText1::
-	text "Don't..."
-	line "Please!"
+	text "No..."
+	line "Ti prego!"
 	prompt
 
 _SilphCo11AfterBattleText1::
-	text "So, you want to"
-	line "see my BOSS?"
+	text "Allora! Vuoi"
+	line "vedere il CAPO?"
 	done
 
 _SilphCo11BattleText2::
-	text "Halt! Do you have"
-	line "an appointment"
-	cont "with my BOSS?"
+	text "Fermo! Hai un"
+	line "appuntamento"
+	cont "con il CAPO?"
 	done
 
 _SilphCo11EndBattleText2::
-	text "Gaah!"
-	line "Demolished!"
+	text "Ahi!"
+	line "Abbattuto!"
 	prompt
 
 _SilphCo11AfterBattleText2::
-	text "Watch your step,"
-	line "my BOSS likes his"
-	cont "#MON tough!"
+	text "Tieni gli occhi"
+	line "aperti! Il CAPO"
+	cont "usa #MON duri!"
 	done
 
 _SilphCo10Text_6237b::
-	text "The monitor has"
-	line "#MON on it!"
+	text "Sul video ci sono"
+	line "dei #MON!"
 	done

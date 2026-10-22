@@ -1,21 +1,21 @@
 _SSAnne1Text1::
-	text "Bonjour!"
-	line "I am le waiter on"
-	cont "this ship!"
+	text "Bonjour! Je suis"
+	line "le cameriere di"
+	cont "questa nave!"
 
-	para "I will be happy"
-	line "to serve you any-"
-	cont "thing you please!"
+	para "Sarò molto lieto"
+	line "di servirle"
+	cont "qualunque cosa!"
 
-	para "Ah! Le strong"
-	line "silent type!"
+	para "Ah! Le tipo forte"
+	line "e silenzioso!"
 	done
 
 _SSAnne1Text2::
-	text "The passengers"
-	line "are restless!"
+	text "I passeggeri sono"
+	line "instancabili!"
 
-	para "You might be"
-	line "challenged by the"
-	cont "more bored ones!"
+	para "Qualcuno tra i più"
+	line "annoiati potrebbe"
+	cont "sfidarti!"
 	done

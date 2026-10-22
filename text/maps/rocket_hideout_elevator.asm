@@ -1,3 +1,3 @@
 _RocketElevatorText_4578b::
-	text "It appears to"
-	line "need a key.@@"
+	text "Ah ah! Sembra che"
+	line "serva una chiave!@@"

@@ -1,13 +1,14 @@
 _SaffronMartText2::
-	text "MAX REPEL lasts"
-	line "longer than SUPER"
-	cont "REPEL for keeping"
-	cont "weaker #MON"
-	cont "away!"
+	text "Per tenere lontani"
+	line "i #MON deboli"
+	cont "REPELLENTE MAX"
+	cont "dura di più del"
+	cont "SUPEREPELLENTE!"
 	done
 
 _SaffronMartText3::
-	text "REVIVE is costly,"
-	line "but it revives"
-	cont "fainted #MON!"
+	text "Il REVITALIZZANTE"
+	line "è caro, ma"
+	cont "ricarica i"
+	cont "#MON esausti!"
 	done

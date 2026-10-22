@@ -1,31 +1,32 @@
 _CeladonMart1Text1::
-	text "Hello! Welcome to"
-	line "CELADON DEPT."
-	cont "STORE."
+	text "Salve! Questo è"
+	line "il CENTRO"
+	cont "COMMERCIALE di"
+	cont "AZZURROPOLI!"
 
-	para "The board on the"
-	line "right describes"
-	cont "the store layout."
+	para "Lì a destra"
+	line "c'è la pianta"
+	cont "del centro."
 	done
 
 _CeladonMart1Text2::
-	text "1F: SERVICE"
-	line "    COUNTER"
+	text "PT: BANCO"
+	line "INFORMAZIONI"
 
-	para "2F: TRAINER'S"
-	line "    MARKET"
+	para "1ºP: NEGOZIO PER"
+	line "ALLENATORI"
 
-	para "3F: TV GAME SHOP"
+	para "2ºP: VIDEOGIOCHI"
 
-	para "4F: WISEMAN GIFTS"
+	para "3ºP: REGALI"
 
-	para "5F: DRUG STORE"
+	para "4ºP: FARMACIA"
 
-	para "ROOFTOP SQUARE:"
-	line "VENDING MACHINES"
+	para "ULTIMO PIANO:"
+	line "DISTRIBUTORI AUT."
 	done
 
 _CeladonMart1Text3::
-	text "1F: SERVICE"
-	line "    COUNTER"
+	text "PT: BANCO"
+	line "INFORMAZIONI"
 	done

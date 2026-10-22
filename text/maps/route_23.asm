@@ -1,38 +1,38 @@
 _VictoryRoadGuardText1::
-	text "You can pass here"
-	line "only if you have"
-	cont "the @"
+	text "Puoi passare"
+	line "solo se hai la"
+	cont "@"
 	TX_RAM wcd6d
 	text "!"
 
-	para "You don't have the"
+	para "Non hai ancora la"
 	line "@"
 	TX_RAM wcd6d
-	text " yet!"
+	text "!"
 
-	para "You have to have"
-	line "it to get to"
-	cont "#MON LEAGUE!@@"
+	para "Devi prenderla per"
+	line "accedere alla"
+	cont "LEGA #MON!@@"
 
 _VictoryRoadGuardText2::
-	text "You can pass here"
-	line "only if you have"
-	cont "the @"
+	text "Puoi passare"
+	line "solo se hai la"
+	cont "@"
 	TX_RAM wcd6d
 	text "!"
 
-	para "Oh! That is the"
+	para "Oh! È proprio la"
 	line "@"
 	TX_RAM wcd6d
 	text "!@@"
 
 _VictoryRoadGuardText_513a3::
 	db $0
-	para "OK then! Please,"
-	line "go right ahead!"
+	para "Benissimo!"
+	line "Passa pure!"
 	done
 
 _Route23Text8::
-	text "VICTORY ROAD GATE"
-	line "- #MON LEAGUE"
+	text "PORTA VIA VITTORIA"
+	line "- LEGA #MON"
 	done

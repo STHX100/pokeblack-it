@@ -1,35 +1,37 @@
 _UGPathRoute7EntranceUnusedText_5d773::
-	text "I want to shop at"
-	line "the dept. store"
-	cont "in CELADON but..."
+	text "Ah, il centro"
+	line "commerciale di"
+	cont "AZZURROPOLI! Come"
+	cont "vorrei andarci..."
 
-	para "There are so many"
-	line "rough looking"
-	cont "people there."
+	para "ma ci girano certi"
+	line "brutti ceffi!"
 	done
 
 _UGPathRoute7EntranceUnusedText_5d778::
-	text "TEAM ROCKET had a"
-	line "secret hideout in"
-	cont "CELADON CITY?"
+	text "TEAM ROCKET aveva"
+	line "un nascondiglio"
+	cont "segreto ad"
+	cont "AZZURROPOLI?"
 	done
 
 _UGPathRoute7EntranceUnusedText_5d77d::
-	text "You're here to"
-	line "shop in CELADON?"
+	text "Sei qui per fare"
+	line "acquisti ad"
+	cont "AZZURROPOLI?"
 
-	para "Just step outside"
-	line "and head west!"
+	para "Esci e dirigiti"
+	line "verso Ovest! Vai!"
 	done
 
 _UGPathRoute7EntranceUnusedText_5d782::
-	text "The UNDERGROUND"
-	line "PATH goes beneath"
-	cont "SAFFRON and leads"
-	cont "to LAVENDER."
+	text "La VIA SOTTERRANEA"
+	line "passa sotto a"
+	cont "ZAFFERANOPOLI e"
+	cont "va a LAVANDONIA."
 
-	para "If you're heading"
-	line "to CERULEAN, go"
-	cont "to the building"
-	cont "across the road."
+	para "Per CELESTOPOLI"
+	line "vai nell'edificio"
+	cont "dall'altro lato"
+	cont "della strada."
 	done

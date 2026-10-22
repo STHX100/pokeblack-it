@@ -1,55 +1,59 @@
 _OakSpeechText1::
-	text "Hello there!"
-	line "Welcome to the"
-	cont "world of #MON!"
+	text "Ciao a tutti!"
+	line "Benvenuti nel"
+	cont "mondo dei #MON!"
 
-	para "My name is OAK!"
-	line "People call me"
-	cont "the #MON PROF!"
+	para "Mi chiamo OAK!"
+	line "Però la gente mi"
+	cont "chiama PROFESSORE"
+	cont "dei #MON!"
 	prompt
 
 _OakSpeechText2A::
-	text "This world is"
-	line "inhabited by"
-	cont "creatures called"
-	cont "#MON!@@"
+	text "Questo mondo è"
+	line "abitato da"
+	cont "creature"
+	cont "chiamate #MON!@@"
 
 _OakSpeechText2B::
-	text $51,"For some people,"
-	line "#MON are"
-	cont "pets. Others use"
-	cont "them for fights."
+	text $51,"Per alcuni i"
+	line "#MON sono"
+	cont "piccoli amici,"
+	cont "altri li usano"
+	cont "per lottare."
 
-	para "Myself..."
+	para "In quanto a me..."
 
-	para "I study #MON"
-	line "as a profession."
+	para "...lo studio dei"
+	line "#MON è"
+	cont "il mio lavoro."
 	prompt
 
 _IntroducePlayerText::
-	text "First, what is"
-	line "your name?"
+	text "Però prima dimmi"
+	line "come ti chiami."
 	prompt
 
 _IntroduceRivalText::
-	text "This is my grand-"
-	line "son. He's been"
-	cont "your rival since"
-	cont "you were a baby."
+	text "Questo è mio"
+	line "nipote. È stato"
+	cont "tuo rivale fin da"
+	cont "quando eri bimbo."
 
-	para "...Erm, what is"
-	line "his name again?"
+	para "...Mmm, potresti"
+	line "ricordarmi come"
+	cont "si chiama?"
 	prompt
 
 _OakSpeechText3::
 	text "<PLAYER>!"
 
-	para "Your very own"
-	line "#MON legend is"
-	cont "about to unfold!"
+	para "La tua leggenda"
+	line "nel mondo #MON"
+	cont "sta per iniziare!"
 
-	para "A world of dreams"
-	line "and adventures"
-	cont "with #MON"
-	cont "awaits! Let's go!"
+	para "Ti aspetta un"
+	line "mondo di sogni e"
+	cont "avventure con i"
+	cont "#MON! Andiamo!"
 	done

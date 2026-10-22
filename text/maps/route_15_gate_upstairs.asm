@@ -1,24 +1,23 @@
 _Route15GateUpstairsText_4968c::
-	text "EXP.ALL gives"
-	line "EXP points to all"
-	cont "the #MON with"
-	cont "you, even if they"
-	cont "don't fight."
+	text "DISTRIB. ESP. dà"
+	line "punti ESPERIENZA"
+	cont "a tutti i #MON"
+	cont "con te, anche se"
+	cont "non lottano."
 
-	para "It does, however,"
-	line "reduce the amount"
-	cont "of EXP for each"
-	cont "#MON."
+	para "Però riduce la"
+	line "quantità di"
+	cont "ESPERIENZA per"
+	cont "ogni #MON."
 
-	para "If you don't need"
-	line "it, you should "
-	cont "store it via PC."
+	para "Depositalo via PC,"
+	line "se non ti serve."
 	done
 
 _Route15GateUpstairsText_49698::
-	text "Looked into the"
-	line "binoculars."
+	text "Guardo con"
+	line "il binocolo..."
 
-	para "It looks like a"
-	line "small island!"
+	para "Sembra una"
+	line "piccola isola!"
 	done

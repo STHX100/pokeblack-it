@@ -1,37 +1,40 @@
 _MomWakeUpText::
-	text "MOM: Right."
-	line "All boys leave"
-	cont "home some day."
-	cont "It said so on TV."
+	text "MAMMA: Ascolta!"
+	line "Prima o poi tutti"
+	cont "i giovani vanno"
+	cont "via di casa. Lo"
+	cont "dice anche la TV!"
 
-	para "PROF.OAK, next"
-	line "door, is looking"
-	cont "for you."
+	para "Il nostro vicino,"
+	line "il PROF.OAK,"
+	cont "ti sta cercando."
 	done
 
 _MomHealText1::
-	text "MOM: <PLAYER>!"
-	line "You should take a"
-	cont "quick rest."
+	text "MAMMA: <PLAYER>!"
+	line "Dovresti"
+	cont "riposarti un po'."
 	prompt
 
 _MomHealText2::
-	text "MOM: Oh good!"
-	line "You and your"
-	cont "#MON are"
-	cont "looking great!"
-	cont "Take care now!"
+	text "MAMMA: Perfetto!"
+	line "Ora tu e i tuoi"
+	cont "#MON siete"
+	cont "in gran forma!"
+	cont "Fai attenzione!"
 	done
 
 _StandByMeText::
-	text "There's a movie"
-	line "on TV. Four boys"
-	cont "are walking on"
-	cont "railroad tracks."
+	text "C'è un film"
+	line "in TV. Quattro"
+	cont "ragazzi camminano"
+	cont "sui binari!"
 
-	para "I better go too."
+	para "Ora però è"
+	line "meglio che vada!"
 	done
 
 _TVWrongSideText::
-	text "Oops, wrong side."
+	text "Oh! È il lato"
+	line "sbagliato!"
 	done

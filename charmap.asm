@@ -223,12 +223,45 @@ charmap "w", $B6
 charmap "x", $B7
 charmap "y", $B8
 charmap "z", $B9
-charmap "é", $BA
-charmap "'d", $BB
-charmap "'l", $BC
-charmap "'s", $BD
-charmap "'t", $BE
-charmap "'v", $BF
+charmap "à", $BA
+charmap "è", $BB
+charmap "é", $BC
+charmap "ù", $BD
+charmap "À", $BE
+charmap "Á", $BF
+
+charmap "Ä",         $C0
+charmap "Ö",         $C1
+charmap "Ü",         $C2
+charmap "ä",         $C3
+charmap "ö",         $C4
+charmap "ü",         $C5
+charmap "È",         $C6
+charmap "É",         $C7
+charmap "Ì",         $C8
+charmap "Í",         $C9
+charmap "Ñ",         $CA
+charmap "Ò",         $CB
+charmap "Ó",         $CC
+charmap "Ù",         $CD
+charmap "Ú",         $CE
+charmap "á",         $CF
+charmap "ì",         $D0
+charmap "í",         $D1
+charmap "ñ",         $D2
+charmap "ò",         $D3
+charmap "ó",         $D4
+charmap "ú",         $D5
+charmap "º",         $D6
+charmap "&",         $D7
+
+charmap "'d",        $D8
+charmap "'l",        $D9
+charmap "'m",        $DA
+charmap "'r",        $DB
+charmap "'s",        $DC
+charmap "'t",        $DD
+charmap "'v",        $DE
 
 charmap "'", $E0
 

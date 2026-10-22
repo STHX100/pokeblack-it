@@ -1,63 +1,68 @@
 _SSAnne2Text1::
-	text "This ship, she is"
-	line "a luxury liner"
-	cont "for trainers!"
+	text "Su questa nave di"
+	line "lusso viaggiano"
+	cont "gli allenatori!"
 
-	para "At every port, we"
-	line "hold parties with"
-	cont "invited trainers!"
+	para "In ogni porto"
+	line "si tengono feste"
+	cont "con la loro"
+	cont "partecipazione!"
 	done
 
 _SSAnneRivalBeforeBattleText::
-	text "<RIVAL>: Bonjour!"
+	text "<RIVAL>: Ciao!"
 	line "<PLAYER>!"
 
-	para "Imagine seeing"
-	line "you here!"
+	para "Mi aspettavo di"
+	line "trovarti qui!"
 
-	para "<PLAYER>, were you"
-	line "really invited?"
+	para "<PLAYER>, ti hanno"
+	line "invitato davvero?"
 
-	para "So how's your"
-	line "#DEX coming?"
+	para "E come procede"
+	line "il tuo #DEX?"
 
-	para "I already caught"
-	line "40 kinds, pal!"
+	para "Ho già catturato"
+	line "40 tipi"
+	cont "di #MON, sai!"
 
-	para "Different kinds"
-	line "are everywhere!"
+	para "Ce ne sono"
+	line "ovunque!"
 
-	para "Crawl around in"
-	line "grassy areas!"
+	para "Si aggirano"
+	line "nell'erba alta!"
 	done
 
 _SSAnneRivalDefeatedText::
-	text "Humph!"
+	text "Uffa!"
 
-	para "At least you're"
-	line "raising your"
-	cont "#MON!"
+	para "Almeno tu stai"
+	line "allenando"
+	cont "i tuoi #MON!"
 	prompt
 
 _SSAnneRivalWonText::
-	text "<PLAYER>! What are"
-	line "you, seasick?"
+	text "<PLAYER>! Cosa? Hai"
+	line "il mal di mare?"
 
-	para "You should shape"
-	line "up, pal!"
+	para "Dovresti"
+	line "rimetterti"
+	cont "in forma, amico!"
 	prompt
 
 _SSAnneRivalCaptainText::
-	text "<RIVAL>: I heard"
-	line "there was a CUT"
-	cont "master on board."
+	text "<RIVAL>: Si dice"
+	line "ci sia a bordo un"
+	cont "maestro di"
+	cont "TAGLIO."
 
-	para "But, he was just a"
-	line "seasick, old man!"
+	para "In realtà è solo"
+	line "un vecchio con"
+	cont "il mal di mare!"
 
-	para "But, CUT itself is"
-	line "really useful!"
+	para "Ma il TAGLIO è"
+	line "davvero utile!"
 
-	para "You should go see"
-	line "him! Smell ya!"
+	para "Dovresti andare"
+	line "a trovarlo! Ciao!"
 	done

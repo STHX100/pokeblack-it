@@ -1,28 +1,29 @@
 _Route11EndBattleText9::
-	text "Whoa!"
-	line "You spark plug!"
+	text "Wow!"
+	line "Sei una scheggia!"
 	prompt
 
 _Route11AfterBattleText9::
-	text "Well, better get"
-	line "back to work."
+	text "Meglio tornare"
+	line "al lavoro!"
 	done
 
 _Route11BattleText10::
-	text "My #MON should"
-	line "be ready by now!"
+	text "I miei #MON"
+	line "dovrebbero essere"
+	cont "pronti ormai!"
 	done
 
 _Route11EndBattleText10::
-	text "Too"
-	line "much, too young!"
+	text "Troppo"
+	line "forte e giovane!"
 	prompt
 
 _Route11AfterBattleText10::
-	text "I better go find"
-	line "stronger ones!"
+	text "Meglio cercarne"
+	line "di più forti!"
 	done
 
 _Route11Text11::
-	text "DIGLETT's CAVE"
+	text "GROTTA DIGLETT"
 	done

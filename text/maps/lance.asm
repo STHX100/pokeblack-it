@@ -1,63 +1,65 @@
 _LanceBeforeBattleText::
-	text "Ah! I heard about"
-	line "you <PLAYER>!"
+	text "<PLAYER>!"
 
-	para "I lead the ELITE"
-	line "FOUR! You can"
-	cont "call me LANCE the"
-	cont "dragon trainer!"
+	para "Ah! Ho sentito"
+	line "parlare di te!"
 
-	para "You know that"
-	line "dragons are"
-	cont "mythical #MON!"
+	para "Sono il capo dei"
+	line "SUPERQUATTRO!"
+	cont "Sono LANCE, l'"
+	cont "allenatore drago!"
 
-	para "They're hard to"
-	line "catch and raise,"
-	cont "but their powers"
-	cont "are superior!"
+	para "I draghi sono"
+	line "#MON mitici!"
 
-	para "They're virtually"
-	line "indestructible!"
+	para "Sono difficili"
+	line "da catturare e"
+	cont "allenare ma hanno"
+	cont "forze superiori!"
 
-	para "Well, are you"
-	line "ready to lose?"
+	para "Sono praticamente"
+	line "invulnerabili!"
 
-	para "Your LEAGUE"
-	line "challenge ends"
-	cont "with me, <PLAYER>!"
+	para "Bene, sei pronto"
+	line "a perdere?"
+
+	para "La tua sfida con"
+	line "la LEGA finisce"
+	cont "con me, <PLAYER>!"
 	done
 
 _LanceEndBattleText::
-	text "That's it!"
+	text "Ecco!"
 
-	para "I hate to admit"
-	line "it, but you are a"
-	cont "#MON master!"
+	para "Odio ammetterlo,"
+	line "ma sei un maestro"
+	cont "con i #MON!"
 	prompt
 
 _LanceAfterBattleText::
-	text "I still can't"
-	line "believe my"
-	cont "dragons lost to"
-	cont "you, <PLAYER>!"
+	text "<PLAYER>, non posso"
+	line "ancora crederci!"
+	cont "Hai sconfitto"
+	cont "i miei draghi!"
 
-	para "You are now the"
-	line "#MON LEAGUE"
-	cont "champion!"
+	para "Ora sei il"
+	line "campione della"
+	cont "LEGA #MON!"
 
-	para "...Or, you would"
-	line "have been, but"
-	cont "you have one more"
-	cont "challenge ahead."
+	para "...o meglio, lo"
+	line "saresti stato..."
+	cont "ma ti aspetta un'"
+	cont "altra sfida."
 
-	para "You have to face"
-	line "another trainer!"
-	cont "His name is..."
+	para "Devi affrontare un"
+	line "altro allenatore!"
+	cont "Il suo nome è..."
 
 	para "<RIVAL>!"
-	line "He beat the ELITE"
-	cont "FOUR before you!"
+	line "Ha battuto i"
+	cont "SUPERQUATTRO"
+	cont "prima di te!"
 
-	para "He is the real"
-	line "#MON LEAGUE"
-	cont "champion!@@"
+	para "È lui il vero"
+	line "campione della"
+	cont "LEGA #MON!@@"

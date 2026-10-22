@@ -1,24 +1,26 @@
 _PewterHouse1Text1::
-	text "NIDORAN: Bowbow!@@"
+	text "NIDORAN: Nidoor!@@"
 
 _PewterHouse1Text2::
-	text "NIDORAN sit!"
+	text "NIDORAN cuccia!"
 	done
 
 _PewterHouse1Text3::
-	text "Our #MON's an"
-	line "outsider, so it's"
-	cont "hard to handle."
+	text "Questo è un "
+	line "#MON acquisito"
+	cont "ed è difficile da"
+	cont "trattare."
 
-	para "An outsider is a"
-	line "#MON that you"
-	cont "get in a trade."
+	para "Acquisito è un"
+	line "#MON scambiato"
+	cont "con un altro"
+	cont "giocatore."
 
-	para "It grows fast, but"
-	line "it may ignore an"
-	cont "unskilled trainer"
-	cont "in battle!"
+	para "Cresce in fretta,"
+	line "ma a volte ignora"
+	cont "gli allenatori"
+	cont "inesperti!"
 
-	para "If only we had"
-	line "some BADGEs..."
+	para "Se solo avessimo"
+	line "delle medaglie!"
 	done

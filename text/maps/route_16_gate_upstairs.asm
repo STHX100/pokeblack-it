@@ -1,26 +1,27 @@
 _Route16GateUpstairsText_49820::
-	text "I'm going for a"
-	line "ride with my girl"
-	cont "friend!"
+	text "Vado a fare un"
+	line "giro con la mia"
+	cont "ragazza!"
 	done
 
 _Route16GateUpstairsText_4982f::
-	text "We're going"
-	line "riding together!"
+	text "Andiamo a fare"
+	line "un giro in bici!"
 	done
 
 _Route16GateUpstairsText_4983b::
-	text "Looked into the"
-	line "binoculars."
+	text "Guardo con"
+	line "il binocolo..."
 
-	para "It's CELADON DEPT."
-	line "STORE!"
+	para "È il CENTRO"
+	line "COMMERCIALE di"
+	cont "AZZURROPOLI!"
 	done
 
 _Route16GateUpstairsText_49847::
-	text "Looked into the"
-	line "binoculars."
+	text "Guardo con"
+	line "il binocolo..."
 
-	para "There's a long"
-	line "path over water!"
+	para "C'è una lunga"
+	line "via sull'acqua!"
 	done

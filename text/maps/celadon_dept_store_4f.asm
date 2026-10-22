@@ -1,26 +1,28 @@
 _CeladonMart4Text2::
-	text "I'm getting a"
-	line "# DOLL for my"
-	cont "girl friend!"
+	text "Comprerò una"
+	line "# BAMBOLA"
+	cont "per la mia amica!"
 	done
 
 _CeladonMart4Text3::
-	text "I heard something"
-	line "useful."
+	text "Mi hanno detto una"
+	line "cosa molto utile!"
 
-	para "You can run from"
-	line "wild #MON by"
-	cont "distracting them"
-	cont "with a # DOLL!"
+	para "Puoi fuggire dai"
+	line "#MON selvatici"
+	cont "distraendoli"
+	cont "con una"
+	cont "# BAMBOLA!"
 	done
 
 _CeladonMart4Text4::
-	text "Express yourself"
-	line "with gifts!"
+	text "Dillo con un"
+	line "regalo!"
 
-	para "4F: WISEMAN GIFTS"
+	para "3ºP: REGALI"
 
-	para "Evolution Special!"
-	line "Element STONEs on"
-	cont "sale now!"
+	para "Evoluzione"
+	line "speciale!"
+	cont "PIETRE elemento"
+	cont "in vendita qui!"
 	done

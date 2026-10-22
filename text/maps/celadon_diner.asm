@@ -1,59 +1,56 @@
 _CeladonDinerText1::
-	text "Hi!"
+	text "Ciao!"
 
-	para "We're taking a"
-	line "break now."
+	para "Stiamo facendo"
+	line "una pausa."
 	done
 
 _CeladonDinerText2::
-	text "My #MON are"
-	line "weak, so I often"
-	cont "have to go to the"
-	cont "DRUG STORE."
+	text "I miei #MON"
+	line "sono deboli, vado"
+	cont "quindi spesso"
+	cont "in FARMACIA."
 	done
 
 _CeladonDinerText3::
-	text "Psst! There's a"
-	line "basement under"
-	cont "the GAME CORNER."
+	text "Psss! C'è un"
+	line "interrato sotto"
+	cont "il CASINÒ."
 	done
 
 _CeladonDinerText4::
-	text "Munch..."
+	text "Ohi! Ohi!..."
 
-	para "The man at that"
-	line "table lost it all"
-	cont "at the slots."
+	para "Quell'uomo ha"
+	line "perso tutto alle"
+	cont "slot machine."
 	done
 
 _CeladonDinerText_491a7::
-	text "Go ahead! Laugh!"
+	text "Forza! Ridi pure!"
 
-	para "I'm flat out"
-	line "busted!"
+	para "Sono rovinato!"
 
-	para "No more slots for"
-	line "me! I'm going"
-	cont "straight!"
+	para "Niente più slot"
+	line "machine per me,"
+	cont "sto alla larga!"
 
-	para "Here! I won't be"
-	line "needing this any-"
-	cont "more!"
+	para "Prendi qua! Non ne"
+	line "ho più bisogno!"
 	prompt
 
 _ReceivedCoinCaseText::
-	text "<PLAYER> received"
-	line "a @"
+	text "<PLAYER> riceve"
+	line "il @"
 	TX_RAM wcf4b
 	text "!@@"
 
 _CoinCaseNoRoomText::
-	text "Make room for"
-	line "this!"
+	text "Fai spazio"
+	line "per questo!"
 	done
 
 _CeladonDinerText_491b7::
-	text "I always thought"
-	line "I was going to"
-	cont "win it back..."
+	text "Pensavo di poter"
+	line "recuperare tutto!"
 	done

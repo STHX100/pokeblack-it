@@ -1,157 +1,159 @@
 _Route9BattleText1::
-	text "You have #MON"
-	line "with you!"
-	cont "You're mine!"
+	text "Hai dei #MON?!"
+	line "In guardia!"
 	done
 
 _Route9EndBattleText1::
-	text "You"
-	line "deceived me!"
+	text "Hai"
+	line "giocato sporco!"
 	prompt
 
 _Route9AfterBattleText1::
-	text "You need light to"
-	line "get through that"
-	cont "dark tunnel ahead."
+	text "Ti serve la luce"
+	line "per passare per"
+	cont "quel tunnel buio."
 	done
 
 _Route9BattleText2::
-	text "Who's that walking"
-	line "with those good"
-	cont "looking #MON?"
+	text "Chi è quello lì,"
+	line "con quei bei"
+	cont "#MON?"
 	done
 
 _Route9EndBattleText2::
-	text "Out"
-	line "like a light!"
+	text "Fuori"
+	line "combattimento!"
 	prompt
 
 _Route9AfterBattleText2::
-	text "Keep walking!"
+	text "Continua per"
+	line "la tua strada!"
 	done
 
 _Route9BattleText3::
-	text "I'm taking ROCK"
-	line "TUNNEL to go to"
-	cont "LAVENDER..."
+	text "Prendo il TUNNEL-"
+	line "ROCCIOSO per"
+	cont "LAVANDONIA!"
 	done
 
 _Route9EndBattleText3::
-	text "Can't"
-	line "measure up!"
+	db $0
+	line "Puah! Non sono"
+	cont "all'altezza!"
 	prompt
 
 _Route9AfterBattleText3::
-	text "Are you off to"
-	line "ROCK TUNNEL too?"
+	text "Vai verso il"
+	line "TUNNELROCCIOSO?"
 	done
 
 _Route9BattleText4::
-	text "Don't you dare"
-	line "condescend me!"
+	text "Non fare"
+	line "l'arrogante!"
 	done
 
 _Route9EndBattleText4::
 	text "No!"
-	line "You're too much!"
+	line "Sei troppo forte!"
 	prompt
 
 _Route9AfterBattleText4::
-	text "You're obviously"
-	line "talented! Good"
-	cont "luck to you!"
+	text "È palese che hai"
+	line "talento! In bocca"
+	cont "al lupo!"
 	done
 
 _Route9BattleText5::
-	text "Bwahaha!"
-	line "Great! I was"
-	cont "bored, eh!"
+	text "Ahaha! Che bello!"
+	line "Stavo iniziando"
+	cont "ad annoiarmi!"
 	done
 
 _Route9EndBattleText5::
-	text "Keep it"
-	line "coming, eh!"
+	db $0
+	line "Non sarò io a"
+	cont "fermarti! Va!"
 
-	para "Oh wait. I'm out"
-	line "of #MON!"
+	para "Sei fortunato! Ho"
+	line "finito i #MON!"
 	prompt
 
 _Route9AfterBattleText5::
-	text "You sure had guts"
-	line "standing up to me"
-	cont "there, eh?"
+	text "Hai del fegato a"
+	line "sfidarmi così!"
 	done
 
 _Route9BattleText6::
-	text "Hahaha!"
-	line "Aren't you a"
-	cont "little toughie!"
+	text "Ahaha! Ma chi ti"
+	line "credi di essere?!"
 	done
 
 _Route9EndBattleText6::
-	text "What's"
-	line "that?"
+	db $0
+	line "Cosa è stato?"
 	prompt
 
 _Route9AfterBattleText6::
-	text "Hahaha! Kids"
-	line "should be tough!"
+	text "Ahaha! E così tu"
+	line "saresti forte!"
 	done
 
 _Route9BattleText7::
-	text "I got up early"
-	line "every day to"
-	cont "raise my #MON"
-	cont "from cocoons!"
+	text "Mi alzavo presto"
+	line "ogni giorno per"
+	cont "allevare i miei"
+	cont "#MON dal"
+	cont "bozzolo!"
 	done
 
 _Route9EndBattleText7::
-	text "WHAT?"
+	text "Che?"
 
-	para "What a total"
-	line "waste of time!"
+	para "Che gran perdita"
+	line "di tempo!"
 	prompt
 
 _Route9AfterBattleText7::
-	text "I have to collect"
-	line "more than bugs to"
-	cont "get stronger..."
+	text "Ci vuole altro che"
+	line "coleotteri per"
+	cont "rinforzarmi...!"
 	done
 
 _Route9BattleText8::
-	text "Hahahaha!"
-	line "Come on, dude!"
+	text "Ahaha! Andiamo,"
+	line "nanerottolo!"
 	done
 
 _Route9EndBattleText8::
-	text "Hahahaha!"
-	line "You beat me fair!"
+	text "Ah!"
+	line "Mi hai vinto"
+	cont "onestamente!"
 	prompt
 
 _Route9AfterBattleText8::
-	text "Hahahaha!"
-	line "Us hearty guys"
-	cont "always laugh!"
+	text "Ahaha! I tipi"
+	line "vivaci come noi"
+	cont "ridono sempre!"
 	done
 
 _Route9BattleText9::
-	text "Go, my super bug"
-	line "#MON!"
+	text "Forza, #MON"
+	line "supercoleottero!"
 	done
 
 _Route9EndBattleText9::
-	text "My"
-	line "bugs..."
+	text "Oh,"
+	line "coleotteri miei!"
 	prompt
 
 _Route9AfterBattleText9::
-	text "If you don't like"
-	line "bug #MON, you"
-	cont "bug me!"
+	text "Adoro i #MON"
+	line "coleottero! Tu"
+	cont "no? Vattene!"
 	done
 
 _Route9Text11::
-	text "ROUTE 9"
-	line "CERULEAN CITY-"
-	cont "ROCK TUNNEL"
+	text "PERCORSO 9"
+	line "CELESTOPOLI -"
+	cont "TUNNELROCCIOSO"
 	done

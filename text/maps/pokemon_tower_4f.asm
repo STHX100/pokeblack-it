@@ -1,45 +1,45 @@
 _PokemonTower4BattleText1::
-	text "GHOST! No!"
-	line "Kwaaah!"
+	text "Uno SPETTRO!"
+	line "Nooo! Guaaah!"
 	done
 
 _PokemonTower4EndBattleText1::
-	text "Where"
-	line "is the GHOST?"
+	text "Dov'è"
+	line "lo SPETTRO?"
 	prompt
 
 _PokemonTower4AfterBattleText1::
-	text "I must have been"
-	line "dreaming..."
+	text "Devo aver fatto un"
+	line "brutto sogno..."
 	done
 
 _PokemonTower4BattleText2::
-	text "Be cursed with"
-	line "me! Kwaaah!"
+	text "Ti maledico!"
+	line "Guaaah!"
 	done
 
 _PokemonTower4EndBattleText2::
-	text "What!"
+	text "Cosa?!"
 	prompt
 
 _PokemonTower4AfterBattleText2::
-	text "We can't crack"
-	line "the identity of"
-	cont "the GHOSTs."
+	text "Non sappiamo dire"
+	line "l'identità degli"
+	cont "SPETTRI!"
 	done
 
 _PokemonTower4BattleText3::
-	text "Huhuhu..."
-	line "Beat me not!"
+	text "Uu Uu Uu!..."
+	line "Ti ho beccato!"
 	done
 
 _PokemonTower4EndBattleText3::
-	text "Huh?"
-	line "Who? What?"
+	text "Eh?"
+	line "Chi? Cosa?"
 	prompt
 
 _PokemonTower4AfterBattleText3::
-	text "May the departed"
-	line "souls of #MON"
-	cont "rest in peace..."
+	text "Che le anime dei"
+	line "#MON riposino"
+	cont "in pace!"
 	done

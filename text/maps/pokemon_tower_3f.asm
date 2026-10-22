@@ -1,45 +1,45 @@
 _PokemonTower3BattleText1::
-	text "Urrg...Awaa..."
-	line "Huhu...graa.."
+	text "Urrg...Aaa..."
+	line "Uuuu...graa.."
 	done
 
 _PokemonTower3EndBattleText1::
-	text "Hwa!"
-	line "I'm saved!"
+	text "AAAh!"
+	line "Sono in salvo!"
 	prompt
 
 _PokemonTower3AfterBattleText1::
-	text "The GHOSTs can be"
-	line "identified by the"
-	cont "SILPH SCOPE."
+	text "Gli SPETTRI si"
+	line "identificano con"
+	cont "la SPETTROSONDA."
 	done
 
 _PokemonTower3BattleText2::
-	text "Kekeke...."
-	line "Kwaaah!"
+	text "Kikiki...."
+	line "Gaaah!"
 	done
 
 _PokemonTower3EndBattleText2::
-	text "Hmm?"
-	line "What am I doing?"
+	text "Mmm?"
+	line "Che sto facendo?"
 	prompt
 
 _PokemonTower3AfterBattleText2::
-	text "Sorry! I was"
-	line "possessed!"
+	text "Scusa!"
+	line "Ero posseduta!"
 	done
 
 _PokemonTower3BattleText3::
-	text "Be gone!"
-	line "Evil spirit!"
+	text "Vattene, spirito"
+	line "maligno!"
 	done
 
 _PokemonTower3EndBattleText3::
-	text "Whew!"
-	line "The spirit left!"
+	text "Lo spirito"
+	line "se n'è andato!"
 	prompt
 
 _PokemonTower3AfterBattleText3::
-	text "My friends were"
-	line "possessed too!"
+	text "Anche i miei amici"
+	line "erano posseduti!"
 	done

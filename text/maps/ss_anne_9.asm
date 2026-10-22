@@ -1,113 +1,115 @@
 _SSAnne9Text_61bf2::
-	text "In all my travels"
-	line "I've never seen"
-	cont "any #MON sleep"
-	cont "like this one!"
+	text "In tutti i miei"
+	line "viaggi non ho mai"
+	cont "visto un #MON"
+	cont "dormire così!"
 
-	para "It was something"
-	line "like this!"
+	para "Era qualcosa"
+	line "di simile!"
 	prompt
 
 _SSAnne9Text_61c01::
-	text "Ah yes, I have"
-	line "seen some #MON"
-	cont "ferry people"
-	cont "across the water!"
+	text "Ah sì! Ho già"
+	line "visto #MON"
+	cont "trasportare la"
+	cont "gente in acqua!"
 	done
 
 _SSAnne9Text_61c10::
-	text "#MON can CUT"
-	line "down small bushes."
+	text "TAGLIO gli"
+	line "alberelli con i"
+	cont "miei #MON."
 	done
 
 _SSAnne9Text_61c1f::
-	text "Have you gone to"
-	line "the SAFARI ZONE"
-	cont "in FUCHSIA CITY?"
+	text "Sei stato nella"
+	line "ZONA SAFARI a"
+	cont "FUCSIAPOLI?"
 
-	para "It had many rare"
-	line "kinds of #MON!!"
+	para "Ci sono molti tipi"
+	line "di #MON rari!"
 	done
 
 _SSAnne9Text_61c2e::
-	text "Me and my Daddy"
-	line "think the SAFARI"
-	cont "ZONE is awesome!"
+	text "Mio padre ed io"
+	line "pensiamo che sia"
+	cont "affascinante!"
 	done
 
 _SSAnne9Text_61c3d::
-	text "The CAPTAIN looked"
-	line "really sick and"
-	cont "pale!"
+	text "Il CAPITANO era"
+	line "molto pallido!"
+	cont "Sembrava malato!"
 	done
 
 _SSAnne9Text_61c4c::
-	text "I hear many people"
-	line "get seasick!"
+	text "Sembra che molti"
+	line "soffrano"
+	cont "il mal di mare!"
 	done
 
 _SSAnne9BattleText1::
-	text "Competing against"
-	line "the young keeps"
-	cont "me youthful."
+	text "Lottare contro"
+	line "i giovani mi"
+	cont "tiene in forma!"
 	done
 
 _SSAnne9EndBattleText1::
-	text "Good"
-	line "fight! Ah, I feel"
-	cont "young again!"
+	db $0
+	line "Bella lotta! Sono"
+	cont "ringiovanito!!!"
 	prompt
 
 _SSAnne9AfterBattleText1::
-	text "15 years ago, I"
-	line "would have won!"
+	text "15 anni fa"
+	line "avrei vinto!!!"
 	done
 
 _SSAnne9BattleText2::
-	text "Check out what I"
-	line "fished up!"
+	text "Guarda cosa"
+	line "ho pescato!"
 	done
 
 _SSAnne9EndBattleText2::
-	text "I'm"
-	line "all out!"
+	text "Sono"
+	line "distrutto!!!"
 	prompt
 
 _SSAnne9AfterBattleText2::
-	text "Party?"
+	text "Una festa?"
 
-	para "The cruise ship's"
-	line "party should be"
-	cont "over by now."
+	para "La festa sulla"
+	line "nave dovrebbe"
+	cont "essere già finita!"
 	done
 
 _SSAnne9BattleText3::
-	text "Which do you like,"
-	line "a strong or a"
-	cont "rare #MON?"
+	text "Cosa preferisci?"
+	line "Un #MON forte"
+	cont "o uno raro?"
 	done
 
 _SSAnne9EndBattleText3::
-	text "I must"
-	line "salute you!"
+	text "Tanto"
+	line "di cappello!"
 	prompt
 
 _SSAnne9AfterBattleText3::
-	text "I prefer strong"
-	line "and rare #MON."
+	text "Preferisco quelli"
+	line "forti e rari!"
 	done
 
 _SSAnne9BattleText4::
-	text "I never saw you"
-	line "at the party."
+	text "Non ti ho mai"
+	line "visto alla festa?"
 	done
 
 _SSAnne9EndBattleText4::
-	text "Take"
-	line "it easy!"
+	db $0
+	line "Vacci piano!"
 	prompt
 
 _SSAnne9AfterBattleText4::
-	text "Oh, I adore your"
-	line "strong #MON!"
+	text "Oh, i tuoi #MON"
+	line "sono fantastici!"
 	done

@@ -1,142 +1,146 @@
 _PewterGymText_5c4a3::
-	text "There are all"
-	line "kinds of trainers"
-	cont "in the world!"
+	text "Nel mondo ci sono"
+	line "allenatori di"
+	cont "tutti i tipi!"
 
-	para "You appear to be"
-	line "very gifted as a"
-	cont "#MON trainer!"
+	para "Sembri essere un"
+	line "allenatore di"
+	cont "#MON in gamba!"
 
-	para "Go to the GYM in"
-	line "CERULEAN and test"
-	cont "your abilities!"
+	para "Vai nella PALESTRA"
+	line "di CELESTOPOLI e"
+	cont "metti alla prova"
+	cont "la tua abilità!"
 	done
 
 _TM34PreReceiveText::
-	text "Wait! Take this"
-	line "with you!"
+	text "Aspetta! Porta"
+	line "questo con te!"
 	done
 
 _ReceivedTM34Text::
-	text "<PLAYER> received"
-	line "TM34!@@"
+	text "<PLAYER> riceve"
+	line "la MT34!@@"
 
 _TM34ExplanationText::
 	db $0
-	para "A TM contains a"
-	line "technique that"
-	cont "can be taught to"
-	cont "#MON!"
+	para "Una MT contiene"
+	line "una tecnica che"
+	cont "puoi insegnare"
+	cont "ad un #MON!"
 
-	para "A TM is good only"
-	line "once! So when you"
-	cont "use one to teach"
-	cont "a new technique,"
-	cont "pick the #MON"
-	cont "carefully!"
+	para "Puoi usare la MT"
+	line "una sola volta!"
+	cont "Scegli dunque il"
+	cont "#MON giusto"
+	cont "cui insegnare"
+	cont "la nuova tecnica!"
 
-	para "TM34 contains"
-	line "BIDE!"
+	para "La MT34 contiene"
+	line "PAZIENZA!"
 
-	para "Your #MON will"
-	line "absorb damage in"
-	cont "battle then pay"
-	cont "it back double!"
+	para "Il tuo #MON"
+	line "incassa prima i"
+	cont "colpi, ma poi ne"
+	cont "rende il doppio!"
 	done
 
 _TM34NoRoomText::
-	text "You don't have"
-	line "room for this!"
+	text "Non hai più spazio"
+	line "per questo!"
 	done
 
 _PewterGymText_5c4bc::
-	text "I took"
-	line "you for granted."
+	text "Ti avevo"
+	line "sottovalutato!"
 
-	para "As proof of your"
-	line "victory, here's"
-	cont "the BOULDERBADGE!"
+	para "Quale premio per"
+	line "la tua vittoria,"
+	cont "ti conferisco la"
+	cont "MEDAGLIA SASSO!"
 
-	para "<PLAYER> received"
-	line "the BOULDERBADGE!@@"
+	para "<PLAYER> riceve la"
+	line "MEDAGLIA SASSO!@@"
 
 _PewterGymText_5c4c1::
 	db $0
-	para "That's an official"
-	line "#MON LEAGUE"
-	cont "BADGE!"
+	para "È una MEDAGLIA"
+	line "ufficiale della"
+	cont "LEGA #MON!"
 
-	para "Its bearer's"
-	line "#MON become"
-	cont "more powerful!"
+	para "Chi la possiede"
+	line "rafforzerà i"
+	cont "suoi #MON!"
 
-	para "The technique"
-	line "FLASH can now be"
-	cont "used any time!"
+	para "Adesso la tecnica"
+	line "FLASH può essere"
+	cont "usata sempre!"
 	prompt
 
 _PewterGymBattleText1::
-	text "Stop right there,"
-	line "kid!"
+	text "Altolà moccioso!"
+	line "Dove vai?"
 
-	para "You're still light"
-	line "years from facing"
-	cont "BROCK!"
+	para "Ci vorranno anni"
+	line "luce prima che tu"
+	cont "possa competere"
+	cont "con BROCK!"
 	done
 
 _PewterGymEndBattleText1::
-	text "Darn!"
+	text "Uffa!"
 
-	para "Light years isn't"
-	line "time! It measures"
-	cont "distance!"
+	para "Gli anni luce non"
+	line "indicano il tempo"
+	cont "ma la distanza!"
 	prompt
 
 _PewterGymAfterBattleText1::
-	text "You're pretty hot,"
-	line "but not as hot"
-	cont "as BROCK!"
+	text "Sei forte ma"
+	line "non quanto BROCK!"
 	done
 
 _PewterGymText_5c515::
-	text "Hiya! I can tell"
-	line "you have what it"
-	cont "takes to become a"
-	cont "#MON champ!"
+	text "Ehi! Hai tutte le"
+	line "carte in regola"
+	cont "per diventare un"
+	cont "campione #MON!"
 
-	para "I'm no trainer,"
-	line "but I can tell"
-	cont "you how to win!"
+	para "Non sono un"
+	line "allenatore ma so"
+	cont "come aiutarti"
+	cont "a vincere!"
 
-	para "Let me take you"
-	line "to the top!"
+	para "Ti porterò ai"
+	line "massimi livelli!"
 	done
 
 _PewterGymText_5c51a::
-	text "All right! Let's"
-	line "get happening!"
+	text "Tutto ok?"
+	line "Allora via!"
 	prompt
 
 _PewterGymText_5c51f::
-	text "The 1st #MON"
-	line "out in a match is"
-	cont "at the top of the"
-	cont "#MON LIST!"
+	text "Il primo #MON a"
+	line "scendere in campo"
+	cont "è il primo della"
+	cont "LISTA #MON!"
 
-	para "By changing the"
-	line "order of #MON,"
-	cont "matches could be"
-	cont "made easier!"
+	para "Cambiando l'ordine"
+	line "dei #MON, la"
+	cont "lotta può essere"
+	cont "più facile!"
 	done
 
 _PewterGymText_5c524::
-	text "It's a free"
-	line "service! Let's"
-	cont "get happening!"
+	text "Il servizio è"
+	line "gratuito! Allora"
+	cont "si comincia!"
 	prompt
 
 _PewterGymText_5c529::
-	text "Just as I thought!"
-	line "You're #MON"
-	cont "champ material!"
+	text "Come pensavo!"
+	line "Hai la stoffa"
+	cont "del campione"
+	cont "di #MON!"
 	done

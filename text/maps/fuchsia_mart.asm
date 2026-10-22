@@ -1,14 +1,15 @@
 _FuchsiaMartText2::
-	text "Do you have a"
-	line "SAFARI ZONE flag?"
+	text "Hai la bandiera"
+	line "della ZONA"
+	cont "SAFARI?"
 
-	para "What about cards"
-	line "or calendars?"
+	para "Hai cartoline o"
+	line "calendari?"
 	done
 
 _FuchsiaMartText3::
-	text "Did you try X"
-	line "SPEED? It speeds"
-	cont "up a #MON in"
-	cont "battle!"
+	text "Hai provato la"
+	line "VELOCITÀ X?"
+	cont "Accelera i"
+	cont "#MON in lotta!"
 	done

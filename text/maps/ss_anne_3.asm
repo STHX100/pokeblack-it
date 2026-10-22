@@ -1,7 +1,8 @@
 _SSAnne3Text1::
-	text "Our CAPTAIN is a"
-	line "sword master!"
+	text "Il nostro CAPITANO"
+	line "è un maestro"
+	cont "di spada!"
 
-	para "He even teaches"
-	line "CUT to #MON!"
+	para "Insegna anche il"
+	line "TAGLIO ai #MON!"
 	done

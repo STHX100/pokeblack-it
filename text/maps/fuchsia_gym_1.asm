@@ -1,26 +1,26 @@
 _KogaBeforeBattleText::
-	text "KOGA: Fwahahaha!"
+	text "KOGA: Ihahahaha!"
 
-	para "A mere child like"
-	line "you dares to"
-	cont "challenge me?"
+	para "Un nanerottolo"
+	line "come te osa"
+	cont "sfidarmi?"
 
-	para "Very well, I"
-	line "shall show you"
-	cont "true terror as a"
-	cont "ninja master!"
+	para "Bene! T'insegnerò"
+	line "cos'è la paura,"
+	cont "sono un maestro"
+	cont "ninja!"
 
-	para "You shall feel"
-	line "the despair of"
-	cont "poison and sleep"
-	cont "techniques!"
+	para "Proverai la"
+	line "disperazione"
+	cont "delle tecniche"
+	cont "del veleno e"
+	cont "del sonno!"
 	done
 
 _KogaAfterBattleText::
-	text "Humph!"
-	line "You have proven"
-	cont "your worth!"
+	text "Hai provato"
+	line "quanto vali!"
 
-	para "Here! Take the"
-	line "SOULBADGE!"
+	para "Ti conferisco la"
+	line "MEDAGLIA ANIMA!"
 	prompt

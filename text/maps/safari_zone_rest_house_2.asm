@@ -1,19 +1,20 @@
 _SafariZoneRestHouse2Text1::
-	text "Tossing ROCKs at"
-	line "#MON might"
-	cont "make them run,"
-	cont "but they'll be"
-	cont "easier to catch."
+	text "Tirando SASSI, i"
+	line "#MON possono"
+	cont "scappare, ma sarà"
+	cont "più facile"
+	cont "catturarli."
 	done
 
 _SafariZoneRestHouse2Text2::
-	text "Using BAIT will"
-	line "make #MON"
-	cont "easier to catch."
+	text "L'ESCA permette di"
+	line "catturare meglio"
+	cont "i #MON."
 	done
 
 _SafariZoneRestHouse2Text3::
-	text "I hiked a lot, but"
-	line "I didn't see any"
-	cont "#MON I wanted."
+	text "Ho camminato molto"
+	line "ma non ho visto i"
+	cont "#MON che"
+	cont "m'interessavano."
 	done

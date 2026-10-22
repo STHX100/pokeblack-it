@@ -1,145 +1,146 @@
 _Route3Text1::
-	text "Whew... I better"
-	line "take a rest..."
-	cont "Groan..."
+	text "Uffa!... Meglio"
+	line "riposarsi un po'!"
+	cont "Che stanchezza!!!"
 
-	para "That tunnel from"
-	line "CERULEAN takes a"
-	cont "lot out of you!"
+	para "Questo tunnel per"
+	line "CELESTOPOLI è"
+	cont "impegnativo!"
 	done
 
 _Route3BattleText1::
-	text "Hey! I met you in"
-	line "VIRIDIAN FOREST!"
+	text "Ci siamo già visti"
+	line "a BOSCOSMERALDO!"
 	done
 
 _Route3EndBattleText1::
-	text "You"
-	line "beat me again!"
+	db $0
+	line "Battuto ancora!"
 	prompt
 
 _Route3AfterBattleText1::
-	text "There are other"
-	line "kinds of #MON"
-	cont "than those found"
-	cont "in the forest!"
+	text "Ci sono altri tipi"
+	line "di #MON oltre"
+	cont "a quelli trovati"
+	cont "nel bosco!"
 	done
 
 _Route3BattleText2::
-	text "Hi! I like shorts!"
-	line "They're comfy and"
-	cont "easy to wear!"
+	text "Ciao! Mi piacciono"
+	line "i pantaloncini"
+	cont "corti! Sono"
+	cont "molto comodi!"
 	done
 
 _Route3EndBattleText2::
-	text "I don't"
-	line "believe it!"
+	text "Non ci"
+	line "posso credere!"
 	prompt
 
 _Route3AfterBattleText2::
-	text "Are you storing"
-	line "your #MON on"
-	cont "PC? Each BOX can"
-	cont "hold 20 #MON!"
+	text "Stai depositando"
+	line "i tuoi #MON"
+	cont "nel PC? Ogni BOX"
+	cont "può contenere"
+	cont "20 #MON!"
 	done
 
 _Route3BattleText3::
-	text "You looked at me,"
-	line "didn't you?"
+	text "Mi stavi"
+	line "guardando, vero?"
 	done
 
 _Route3EndBattleText3::
-	text "You're"
-	line "mean!"
+	text "Sei basso!"
 	prompt
 
 _Route3AfterBattleText3::
-	text "Quit staring if"
-	line "you don't want to"
-	cont "fight!"
+	text "Smetti di fissarmi"
+	line "se non vuoi guai!"
 	done
 
 _Route3BattleText4::
-	text "Are you a trainer?"
-	line "Let's fight!"
+	text "Sei un allenatore?"
+	line "Lottiamo, forza!"
 	done
 
 _Route3EndBattleText4::
-	text "If I"
-	line "had new #MON I"
-	cont "would've won!"
+	text "Con"
+	line "nuovi #MON ti"
+	cont "avrei battuto!"
 	prompt
 
 _Route3AfterBattleText4::
-	text "If a #MON BOX"
-	line "on the PC gets"
-	cont "full, just switch"
-	cont "to another BOX!"
+	text "Se un #MON BOX"
+	line "del PC è pieno,"
+	cont "passa a un altro!"
 	done
 
 _Route3BattleText5::
-	text "That look you"
-	line "gave me, it's so"
-	cont "intriguing!"
+	text "Quel tuo sguardo è"
+	line "così intrigante!"
 	done
 
 _Route3EndBattleText5::
-	text "Be nice!"
+	db $0
+	line "Sii gentile!"
 	prompt
 
 _Route3AfterBattleText5::
-	text "Avoid fights by"
-	line "not letting"
-	cont "people see you!"
+	text "Evita le lotte"
+	line "nascondendoti da"
+	cont "certa gente!"
 	done
 
 _Route3BattleText6::
-	text "Hey! You're not"
-	line "wearing shorts!"
+	text "Ehi! Non indossi i"
+	line "pantaloncini!"
 	done
 
 _Route3EndBattleText6::
-	text "Lost!"
-	line "Lost! Lost!"
+	text "Ho perso!"
+	line "Perso! Perso!"
 	prompt
 
 _Route3AfterBattleText6::
-	text "I always wear"
-	line "shorts, even in"
-	cont "winter!"
+	text "Porto sempre i"
+	line "pantaloncini,"
+	cont "anche d'inverno!"
 	done
 
 _Route3BattleText7::
-	text "You can fight my"
-	line "new #MON!"
+	text "Puoi lottare"
+	line "contro i miei"
+	cont "nuovi #MON!"
 	done
 
 _Route3EndBattleText7::
-	text "Done"
-	line "like dinner!"
+	db $0
+	line "Sono distrutto!"
 	prompt
 
 _Route3AfterBattleText7::
-	text "Trained #MON"
-	line "are stronger than"
-	cont "the wild ones!"
+	text "I #MON allenati"
+	line "sono più forti di"
+	cont "quelli selvatici!"
 	done
 
 _Route3BattleText8::
-	text "Eek! Did you"
-	line "touch me?"
+	text "Ehi! Mi hai"
+	line "urtato?"
 	done
 
 _Route3EndBattleText8::
-	text "That's it?"
+	text "Tutto qui?"
 	prompt
 
 _Route3AfterBattleText8::
-	text "ROUTE 4 is at the"
-	line "foot of MT.MOON."
+	text "Il PERCORSO 4 è"
+	line "ai piedi di"
+	cont "MONTELUNA."
 	done
 
 _Route3Text10::
-	text "ROUTE 3"
-	line "MT.MOON AHEAD"
+	text "PERCORSO 3 -"
+	line "Per MONTELUNA"
 	done

@@ -1,39 +1,40 @@
 _DayCareAllRightThenText::
-	text "All right then,"
+	text "Molto bene!"
 	line "@@"
 
 _DayCareComeAgainText::
-	text "come again."
+	text "Torna più tardi!"
 	done
 
 _DayCareNoRoomForMonText::
-	text "You have no room"
-	line "for this #MON!"
+	text "Non hai spazio per"
+	line "questo #MON!"
 	done
 
 _DayCareOnlyHaveOneMonText::
-	text "You only have one"
-	line "#MON with you."
+	text "Hai un solo"
+	line "#MON con te."
 	done
 
 _DayCareCantAcceptMonText::
-	text "I'm sorry, but I"
-	line "can't accept that"
-	cont "#MON."
+	text "Scusa, ma non"
+	line "posso accettare"
+	cont "quel #MON."
 	done
 
 _DayCareCantAcceptMonWithHMText::
-	text "I can't accept a"
-	line "#MON that"
-	cont "knows an HM move."
+	text "Non posso ospitare"
+	line "un #MON che"
+	cont "conosca già"
+	cont "una mossa MN."
 	done
 
 _DayCareHeresYourMonText::
-	text "Thank you! Here's"
-	line "your #MON!"
+	text "Grazie! Ecco il"
+	line "tuo #MON!"
 	prompt
 
 _DayCareNotEnoughMoneyText::
-	text "Hey, you don't"
-	line "have enough ¥!"
+	text "Ehi, non hai"
+	line "abbastanza soldi!"
 	done

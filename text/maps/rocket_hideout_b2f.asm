@@ -1,17 +1,20 @@
 _RocketHideout2BattleText2::
-	text "BOSS said you can"
-	line "see GHOSTs with"
-	cont "the SILPH SCOPE!"
+	text "Il CAPO dice che"
+	line "puoi vedere gli"
+	cont "SPETTRI con la"
+	cont "SPETTROSONDA!"
 	done
 
 _RocketHideout2EndBattleText2::
-	text "I"
-	line "surrender!"
+	text "Basta!"
+	line "Mi arrendo!"
 	prompt
 
 _RocketHideout2AfterBattleTxt2::
-	text "The TEAM ROCKET"
-	line "HQ has 4 basement"
-	cont "floors. Can you"
-	cont "reach the BOSS?"
+	text "Il QUARTIER"
+	line "GENERALE di TEAM"
+	cont "ROCKET ha 4 piani"
+	cont "sotterranei."
+	cont "Ce la farai ad"
+	cont "arrivare al CAPO?"
 	done

@@ -1,122 +1,124 @@
 _MtMoon3Text_49f24::
-	text "You want the"
-	line "DOME FOSSIL?"
+	text "Vuoi"
+	line "DOMOFOSSILE?"
 	done
 
 _MtMoon3Text_49f64::
-	text "You want the"
-	line "HELIX FOSSIL?"
+	text "Vuoi"
+	line "HELIXFOSSILE?"
 	done
 
 _MtMoon3Text_49f6f::
-	text "<PLAYER> got the"
+	text "<PLAYER> riceve"
 	line "@"
 	TX_RAM wcf4b
 	text "!@@"
 
 _MtMoon3Text_49f7f::
-	text "Look, you've got"
-	line "no room for this.@@"
+	text "Ehi! Non hai più"
+	line "spazio! Peccato!@@"
 
 _MtMoon3Text_49f85::
-	text "Hey, stop!"
+	text "Ehi! Giù le zampe!"
 
-	para "I found these"
-	line "fossils! They're"
-	cont "both mine!"
+	para "Questi due fossili"
+	line "li ho trovati io!"
+	cont "Sono miei!"
 	done
 
 _MtMoon3Text_49f8a::
-	text "OK!"
-	line "I'll share!"
+	text "Bene!"
+	line "Ce li divideremo!"
 	prompt
 
 _MtMoon3Text_49f8f::
-	text "We'll each take"
-	line "one!"
-	cont "No being greedy!"
+	text "Uno a testa!"
+	line "Non bisogna"
+	cont "essere avidi!"
 	done
 
 _MtMoon3Text_49f94::
-	text "Far away, on"
-	line "CINNABAR ISLAND,"
-	cont "there's a #MON"
-	cont "LAB."
+	text "Sull'ISOLA"
+	line "CANNELLA c'è"
+	cont "un laboratorio"
+	cont "#MON."
 
-	para "They do research"
-	line "on regenerating"
-	cont "fossils."
+	para "Si studia come"
+	line "rigenerare"
+	cont "i #MON!"
 	done
 
 _MtMoon3Text_49f99::
-	text "All right. Then"
-	line "this is mine!@@"
+	text "OK! Allora"
+	line "questo è mio!@@"
 
 _MtMoon3BattleText2::
-	text "TEAM ROCKET will"
-	line "find the fossils,"
-	cont "revive and sell"
-	cont "them for cash!"
+	text "TEAM ROCKET"
+	line "troverà i fossili"
+	cont "li rivitalizzerà"
+	cont "e li venderà"
+	cont "a caro prezzo!"
 	done
 
 _MtMoon3EndBattleText2::
-	text "Urgh!"
-	line "Now I'm mad!"
+	text "Grrr!"
+	line "Sono furioso!"
 	prompt
 
 _MtMoon3AfterBattleText2::
-	text "You made me mad!"
-	line "TEAM ROCKET will"
-	cont "blacklist you!"
+	text "Mi fai infuriare!"
+	line "TEAM ROCKET"
+	cont "ti metterà nella"
+	cont "lista nera!"
 	done
 
 _MtMoon3BattleText3::
-	text "We, TEAM ROCKET,"
-	line "are #MON"
-	cont "gangsters!"
+	text "Noi, TEAM ROCKET,"
+	line "siamo i gangster"
+	cont "dei #MON!"
 	done
 
 _MtMoon3EndBattleText3::
-	text "I blew"
-	line "it!"
+	text "No!"
+	line "Che duro colpo!"
 	prompt
 
 _MtMoon3AfterBattleText3::
-	text "Darn it all! My"
-	line "associates won't"
-	cont "stand for this!"
+	text "Maledizione! Ai"
+	line "miei compagni"
+	cont "non piacerà!!!"
 	done
 
 _MtMoon3BattleText4::
-	text "We're pulling a"
-	line "big job here!"
-	cont "Get lost, kid!"
+	text "Stiamo lavorando!"
+	line "Roba che scotta!"
+	cont "Vattene, pulce!"
 	done
 
 _MtMoon3EndBattleText4::
-	text "So, you"
-	line "are good."
+	text "Allora"
+	line "sei forte!"
 	prompt
 
 _MtMoon3AfterBattleText4::
-	text "If you find a"
-	line "fossil, give it"
-	cont "to me and scram!"
+	text "Se trovi un"
+	line "fossile, dammelo"
+	cont "e smamma!"
 	done
 
 _MtMoon3BattleText5::
-	text "Little kids"
-	line "should leave"
-	cont "grown-ups alone!"
+	text "I mocciosi devono"
+	line "lasciare in pace"
+	cont "gli adulti!"
 	done
 
 _MtMoon3EndBattleText5::
-	text "I'm"
-	line "steamed!"
+	text "Sono"
+	line "completamente KO!"
 	prompt
 
 _MtMoon3AfterBattleText5::
-	text "#MON lived"
-	line "here long before"
-	cont "people came."
+	text "I #MON vivevano"
+	line "qui molto prima"
+	cont "dell'uomo."
 	done

@@ -85,7 +85,7 @@ DiplomaTextPointersAndCoords:
 	dw DiplomaText
 	dwCoord 5, 2
 	dw DiplomaPlayer
-	dwCoord 3, 4
+	dwCoord 2, 4
 	dw DiplomaEmptyText
 	dwCoord 15, 4
 	dw DiplomaCongrats
@@ -97,17 +97,17 @@ DiplomaText:
 	db $70,"Diploma",$70,"@"
 
 DiplomaPlayer:
-	db "Player@"
+	db "Giocatore@"
 
 DiplomaEmptyText:
 	db "@"
 
 DiplomaCongrats:
-	db   "Congrats! This"
-	next "diploma certifies"
-	next "that you have"
-	next "completed your"
-	next "#DEX.@"
+	db   "Congratulazioni!"
+	next "Questo diploma"
+	next "certifica che"
+	next "il tuo #DEX"
+	next "è completo.@"
 
 DiplomaGameFreak:
 	db "GAME FREAK@"

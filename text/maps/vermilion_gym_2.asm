@@ -1,143 +1,149 @@
 _VermilionGymText_5cb72::
-	text "A little word of"
-	line "advice, kid!"
+	text "Voglio darti un"
+	line "consiglio!"
 
-	para "Electricity is"
-	line "sure powerful!"
+	para "L'elettricità è"
+	line "potentissima!"
 
-	para "But, it's useless"
-	line "against ground-"
-	cont "type #MON!"
+	para "Ma non ha effetto"
+	line "sui #MON di"
+	cont "tipo terra!"
 	done
 
 _VermilionGymText_5cb77::
-	text "The THUNDERBADGE"
-	line "cranks up your"
-	cont "#MON's SPEED!"
+	text "La MEDAGLIA TUONO"
+	line "aumenta la"
+	cont "VELOCITÀ dei"
+	cont "tuoi #MON!"
 
-	para "It also lets your"
-	line "#MON FLY any"
-	cont "time, kid!"
+	para "E i tuoi #MON"
+	line "potranno volare"
+	cont "in ogni momento!"
 
-	para "You're special,"
-	line "kid! Take this!"
+	para "Sei speciale!"
+	line "Prendi questo!"
 	done
 
 _ReceivedTM24Text::
-	text "<PLAYER> received "
-	line "@"
+	text "<PLAYER> riceve"
+	line "la @"
 	TX_RAM wcf4b
 	text "!@@"
 
 _TM24ExplanationText::
 	db $0
-	para "TM24 contains"
-	line "THUNDERBOLT!"
+	para "La MT24 contiene"
+	line "FULMINE!"
 
-	para "Teach it to an"
-	line "electric #MON!"
+	para "Insegnala a"
+	line "un #MON"
+	cont "elettrico!"
 	done
 
 _TM24NoRoomText::
-	text "Yo kid, make room"
-	line "in your pack!"
+	text "Fai spazio"
+	line "per questo!"
 	done
 
 _ReceivedThunderbadgeText::
-	text "Whoa!"
+	text "Wow!"
 
-	para "You're the real"
-	line "deal, kid!"
+	para "Tu sì che sei"
+	line "forte, caspita!"
 
-	para "Fine then, take"
-	line "the THUNDERBADGE!"
+	para "Bene, prendi la"
+	line "MEDAGLIA TUONO!"
 	prompt
 
 _VermilionGymBattleText1::
-	text "When I was in the"
-	line "Army, LT.SURGE"
-	cont "was my strict CO!"
+	text "Quando ero"
+	line "nell'esercito,"
+	cont "LT.SURGE era"
+	cont "molto severo!"
 	done
 
 _VermilionGymEndBattleText1::
 	text "Stop!"
-	line "You're very good!"
+	line "Abbi pietà!"
 	prompt
 
 _VermilionGymAfterBattleText1::
-	text "The door won't"
-	line "open?"
+	text "Non riesci ad"
+	line "aprire la porta?"
 
-	para "LT.SURGE always"
-	line "was cautious!"
+	para "LT. SURGE è sempre"
+	line "stato prudente!"
 	done
 
 _VermilionGymBattleText2::
-	text "I'm a lightweight,"
-	line "but I'm good with"
-	cont "electricity!"
+	text "Sono un peso piuma"
+	line "ma sono forte con"
+	cont "l'elettricità!"
 	done
 
 _VermilionGymEndBattleText2::
-	text "Fried!"
+	db $0
+	line "Sono fritto!"
 	prompt
 
 _VermilionGymAfterBattleText2::
-	text "OK, I'll talk!"
+	text "Va bene, parlerò!"
 
-	para "LT.SURGE said he"
-	line "hid door switches"
-	cont "inside something!"
+	para "LT. SURGE ha"
+	line "nascosto gli"
+	cont "apriporta dentro"
+	cont "qualcosa!"
 	done
 
 _VermilionGymBattleText3::
-	text "This is no place"
-	line "for kids!"
+	text "Non è posto per"
+	line "bambini questo!"
 	done
 
 _VermilionGymEndBattleText3::
 	text "Wow!"
-	line "Surprised me!"
+	line "Sei un portento!"
 	prompt
 
 _VermilionGymAfterBattleText3::
-	text "LT.SURGE set up"
-	line "double locks!"
-	cont "Here's a hint!"
+	text "LT. SURGE ha messo"
+	line "doppi lucchetti."
+	cont "Un consiglio...!"
 
-	para "When you open the"
-	line "1st lock, the 2nd"
-	cont "lock is right"
-	cont "next to it!"
+	para "Una volta aperto"
+	line "il 1º, il secondo"
+	cont "è subito accanto!"
 	done
 
 _VermilionGymText_5cbf4::
-	text "Yo! Champ in"
-	line "making!"
+	text "Ehi! Aspirante"
+	line "campione!"
 
-	para "LT.SURGE has a"
-	line "nickname. People"
-	cont "refer to him as"
-	cont "the Lightning"
-	cont "American!"
+	para "LT. SURGE ha un"
+	line "soprannome. La"
+	cont "gente lo chiama"
+	cont "l'Americano"
+	cont "Illuminato!"
 
-	para "He's an expert on"
-	line "electric #MON!"
+	para "È un esperto di"
+	line "#MON"
+	cont "elettrici!"
 
-	para "Birds and water"
-	line "#MON are at"
-	cont "risk! Beware of"
-	cont "paralysis too!"
+	para "I #MON volanti"
+	line "e quelli d'acqua"
+	cont "sono a rischio."
+	cont "Fai attenzione"
+	cont "alle paralisi!"
 
-	para "LT.SURGE is very"
-	line "cautious!"
+	para "LT. SURGE è molto"
+	line "prudente!"
 
-	para "You'll have to"
-	line "break a code to"
-	cont "get to him!"
+	para "Dovrai decifrare"
+	line "un codice per"
+	cont "arrivare a lui!"
 	done
 
 _VermilionGymText_5cbf9::
-	text "Whew! That match"
-	line "was electric!"
+	text "Wow! Una lotta"
+	line "elettrizzante!"
 	done

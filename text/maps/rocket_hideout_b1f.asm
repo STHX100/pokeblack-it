@@ -1,73 +1,73 @@
 _RocketHideout1EndBattleText6::
-	text "Why...?@@"
+	text "Perché?@@"
 
 _RocketHideout1BattleText2::
-	text "Who are you? How"
-	line "did you get here?"
+	text "Chi sei? Come"
+	line "sei arrivato qui?"
 	done
 
 _RocketHideout1EndBattleText2::
-	text "Oww!"
-	line "Beaten!"
+	text "Ahi!"
+	line "Colpito!"
 	prompt
 
 _RocketHideout1AfterBattleTxt2::
-	text "Are you dissing"
+	text "Sfiderai"
 	line "TEAM ROCKET?"
 	done
 
 _RocketHideout1BattleText3::
-	text "You broke into"
-	line "our operation?"
+	text "Hai rovinato"
+	line "i nostri piani!"
 	done
 
 _RocketHideout1EndBattleText3::
-	text "Burnt!"
+	db $0
+	line "È finita!"
 	prompt
 
 _RocketHideout1AfterBattleTxt3::
-	text "You're not going"
-	line "to get away with"
-	cont "this, brat!"
+	text "Non la passerai"
+	line "liscia, pulce!"
 	done
 
 _RocketHideout1BattleText4::
-	text "Intruder alert!"
+	text "Allarme! "
+	line "Intrusione!"
 	done
 
 _RocketHideout1EndBattleText4::
-	text "I"
-	line "can't do it!"
+	text "Non ce"
+	line "la faccio!!!"
 	prompt
 
 _RocketHideout1AfterBattleTxt4::
-	text "SILPH SCOPE?"
-	line "I don't know"
-	cont "where it is!"
+	text "La SPETTROSONDA?"
+	line "Non so dove sia!"
 	done
 
 _RocketHideout1BattleText5::
-	text "Why did you come"
-	line "here?"
+	text "Cosa fai qui?"
 	done
 
 _RocketHideout1EndBattleText5::
-	text "This"
-	line "won't do!"
+	text "Niente"
+	line "da fare!"
 	prompt
 
 _RocketHideout1AfterBattleTxt5::
-	text "OK, I'll talk!"
-	line "Take the elevator"
-	cont "to see my BOSS!"
+	text "Bene, parlerò!"
+	line "Se vuoi vedere"
+	cont "il CAPO, prendi"
+	cont "l'ascensore!"
 	done
 
 _RocketHideout1BattleText6::
-	text "Are you lost, you"
-	line "little rat?"
+	text "Ti sei perso,"
+	line "piccola peste?"
 	done
 
 _RocketHideout1AfterBattleTxt6::
-	text "Uh-oh, that fight"
-	line "opened the door!"
+	text "Oh! La lotta ha"
+	line "aperto la porta!"
 	done

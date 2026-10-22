@@ -1,31 +1,31 @@
 _PokemonTower1Text1::
-	text "#MON TOWER was"
-	line "erected in the"
-	cont "memory of #MON"
-	cont "that had died."
+	text "La TORRE #MON"
+	line "fu eretta in"
+	cont "memoria dei"
+	cont "#MON scomparsi."
 	done
 
 _PokemonTower1Text2::
-	text "Did you come to"
-	line "pay respects?"
-	cont "Bless you!"
+	text "Sei venuto a"
+	line "rendere omaggio?"
+	cont "Che bel gesto!"
 	done
 
 _PokemonTower1Text3::
-	text "I came to pray"
-	line "for my CLEFAIRY."
+	text "Prego per il mio"
+	line "CLEFAIRY."
 
-	para "Sniff! I can't"
-	line "stop crying..."
+	para "Sigh! Non faccio"
+	line "che piangere..."
 	done
 
 _PokemonTower1Text4::
-	text "My GROWLITHE..."
-	line "Why did you die?"
+	text "Il mio GROWLITHE.."
+	line "Perché sei morto?"
 	done
 
 _PokemonTower1Text5::
-	text "I am a CHANNELER!"
-	line "There are spirits"
-	cont "up to mischief!"
+	text "Sono una MEDIUM!"
+	line "Ci sono spiriti"
+	cont "molto inquieti!"
 	done

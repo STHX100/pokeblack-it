@@ -1,21 +1,24 @@
 _VermilionHouse1Text1::
-	text "I'm getting my"
-	line "PIDGEY to fly a"
-	cont "letter to SAFFRON"
-	cont "in the north!"
+	text "Il mio PIDGEY"
+	line "volerà al Nord,"
+	cont "per portare una"
+	cont "lettera a"
+	cont "ZAFFERANOPOLI!"
 	done
 
 _VermilionHouse1Text2::
-	text "PIDGEY: Kurukkoo!@@"
+	text "PIDGEY: Grugrù!@@"
 
 _VermilionHouse1Text3::
-	text "Dear PIPPI, I hope"
-	line "to see you soon."
+	text "Caro PIPPI,"
+	line "spero di vederti"
+	cont "presto."
 
-	para "I heard SAFFRON"
-	line "has problems with"
+	para "Ho saputo che"
+	line "ZAFFERANOPOLI"
+	cont "ha problemi con"
 	cont "TEAM ROCKET."
 
-	para "VERMILION appears"
-	line "to be safe."
+	para "ARANCIOPOLI sembra"
+	line "salva per ora."
 	done

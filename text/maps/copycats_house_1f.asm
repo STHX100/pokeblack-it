@@ -1,20 +1,18 @@
 _CopycatsHouse1FText1::
-	text "My daughter is so"
-	line "self-centered."
-	cont "She only has a"
-	cont "few friends."
+	text "Mia figlia è molto"
+	line "egocentrica e ha"
+	cont "pochi amici!"
 	done
 
 _CopycatsHouse1FText2::
-	text "My daughter likes"
-	line "to mimic people."
+	text "Si diverte a"
+	line "imitare la gente."
 
-	para "Her mimicry has"
-	line "earned her the"
-	cont "nickname COPYCAT"
-	cont "around here!"
+	para "Per questo ha il"
+	line "soprannome di"
+	cont "COPIONA!"
 	done
 
 _CopycatsHouse1FText3::
-	text "CHANSEY: Chaan!"
-	line "Sii!@@"
+	text "CHANSEY: Ciaan!"
+	line "Ciaan!@@"

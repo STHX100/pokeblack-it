@@ -1,40 +1,42 @@
 _Route11GateUpstairsText_494a3::
-	text "There are items on"
-	line "the ground that"
-	cont "can't be seen."
+	text "Ci sono strumenti"
+	line "invisibili"
+	cont "per terra."
 
-	para "ITEMFINDER will"
-	line "detect an item"
-	cont "close to you."
+	para "Il DETECTOR ti"
+	line "aiuterà a"
+	cont "scovarli."
 
-	para "It can't pinpoint"
-	line "it, so you have"
-	cont "to look yourself!"
+	para "Però non può"
+	line "indicarteli, così"
+	cont "li devi cercare"
+	cont "da solo!"
 	done
 
 _BinocularsSnorlaxText::
-	text "Looked into the"
-	line "binoculars."
+	text "Guardo con"
+	line "il binocolo..."
 
-	para "A big #MON is"
-	line "asleep on a road!"
+	para "Un enorme #MON"
+	line "dorme in mezzo"
+	cont "alla strada!"
 	done
 
 _BinocularsNoSnorlaxText::
-	text "Looked into the"
-	line "binoculars."
+	text "Guardo con"
+	line "il binocolo..."
 
-	para "It's a beautiful"
-	line "view!"
+	para "C'è un magnifico"
+	line "panorama da qui!"
 	done
 
 _Route11GateUpstairsText_494d5::
-	text "Looked into the"
-	line "binoculars."
+	text "Guardo con"
+	line "il binocolo..."
 
-	para "The only way to"
-	line "get from CERULEAN"
-	cont "CITY to LAVENDER"
-	cont "is by way of the"
-	cont "ROCK TUNNEL."
+	para "Per andare da"
+	line "CELESTOPOLI a"
+	cont "LAVANDONIA la"
+	cont "sola via è il"
+	cont "TUNNELROCCIOSO!"
 	done

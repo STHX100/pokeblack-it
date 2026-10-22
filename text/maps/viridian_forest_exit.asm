@@ -1,19 +1,21 @@
 _ViridianForestExitText1::
-	text "Many #MON live"
-	line "only in forests "
-	cont "and caves."
+	text "Molti #MON"
+	line "vivono solo in"
+	cont "boschi e grotte."
 
-	para "You need to look"
-	line "everywhere to get"
-	cont "different kinds!"
+	para "Devi guardare"
+	line "ovunque per"
+	cont "catturarne di"
+	cont "tutti i tipi!"
 	done
 
 _ViridianForestExitText2::
-	text "Have you noticed"
-	line "the bushes on the"
-	cont "roadside?"
+	text "Hai visto gli"
+	line "alberelli a lato"
+	cont "della strada?"
 
-	para "They can be cut"
-	line "down by a special"
-	cont "#MON move."
+	para "Con una mossa"
+	line "speciale i"
+	cont "#MON possono"
+	cont "tagliarli."
 	done

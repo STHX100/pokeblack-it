@@ -1,22 +1,24 @@
 _CeladonHouseText1::
-	text "Hehehe! The slots"
-	line "just reel in the"
-	cont "dough, big time!"
+	text "Wow! Ho vinto la"
+	line "grana alle slot!"
+	cont "Bel colpo!"
 	done
 
 _CeladonHouseText2::
-	text "CHIEF!"
+	text "CAPO!"
 
-	para "We just shipped"
-	line "2000 #MON as"
-	cont "slot prizes!"
+	para "Abbiamo spedito"
+	line "2000 #MON"
+	cont "come premi!"
+	
 	done
 
 _CeladonHouseText3::
-	text "Don't touch the"
-	line "poster at the"
-	cont "GAME CORNER!"
+	text "Non toccare il"
+	line "poster al"
+	cont "CASINÒ!"
 
-	para "There's no secret"
-	line "switch behind it!"
+	para "Non c'è nessun"
+	line "pulsante segreto"
+	cont "dietro!"
 	done

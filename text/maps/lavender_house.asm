@@ -1,24 +1,24 @@
 _LavenderHouse2Text1::
-	text "CUBONE: Kyarugoo!@@"
+	text "CUBONE: Cuuboon!@@"
 
 _LavenderHouse2Text_1d9dc::
-	text "I hate those"
-	line "horrible ROCKETs!"
+	text "Odio quei"
+	line "terribili ROCKET!"
 
-	para "That poor CUBONE's"
-	line "mother..."
+	para "La povera madre"
+	line "di CUBONE..."
 
-	para "It was killed"
-	line "trying to escape"
-	cont "from TEAM ROCKET!"
+	para "L'hanno uccisa"
+	line "mentre fuggiva"
+	cont "dai ROCKET!"
 	done
 
 _LavenderHouse2Text_1d9e1::
-	text "The GHOST of"
-	line "#MON TOWER is"
-	cont "gone!"
+	text "Lo SPETTRO della"
+	line "TORRE #MON se"
+	cont "n'è andato!"
 
-	para "Someone must have"
-	line "soothed its"
-	cont "restless soul!"
+	para "Qualcuno deve aver"
+	line "calmato la sua"
+	cont "anima in pena!"
 	done

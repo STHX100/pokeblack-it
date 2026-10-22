@@ -459,7 +459,7 @@ BillsMonListText:
 	next "FLAREON"
 	next "JOLTEON"
 	next "VAPOREON"
-	next "CANCEL@"
+	next "ESCI@"
 
 BillsHousePokemonListText2:
 	TX_FAR _BillsHousePokemonListText2

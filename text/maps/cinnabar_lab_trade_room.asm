@@ -1,9 +1,9 @@
 _Lab2Text1::
-	text "I found this very"
-	line "strange fossil in"
-	cont "MT.MOON!"
+	text "Ho trovato questo"
+	line "strano fossile"
+	cont "su MONTELUNA!"
 
-	para "I think it's a"
-	line "rare, prehistoric"
-	cont "#MON!"
+	para "Penso si tratti di"
+	line "un raro #MON"
+	cont "preistorico!"
 	done

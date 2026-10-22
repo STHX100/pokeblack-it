@@ -1,84 +1,88 @@
 _GaryChampionIntroText::
-	text "<RIVAL>: Hey!"
+	text "<RIVAL>: Ehi!"
 
-	para "I was looking"
-	line "forward to seeing"
-	cont "you, <PLAYER>!"
+	para "Ero ansioso di"
+	line "rivederti,"
+	cont "<PLAYER>!"
 
-	para "My rival should"
-	line "be strong to keep"
-	cont "me sharp!"
+	para "Il mio rivale deve"
+	line "essere forte per"
+	cont "tenermi testa!"
 
-	para "While working on"
-	line "#DEX, I looked"
-	cont "all over for"
-	cont "powerful #MON!"
+	para "Lavorando al"
+	line "#DEX, ho"
+	cont "cercato ovunque"
+	cont "#MON forti!"
 
-	para "Not only that, I"
-	line "assembled teams"
-	cont "that would beat"
-	cont "any #MON type!"
+	para "Non solo, ho anche"
+	line "formato squadre"
+	cont "che battessero"
+	cont "tutti i tipi di"
+	cont "#MON!"
 
-	para "And now!"
+	para "E ora..."
 
-	para "I'm the #MON"
-	line "LEAGUE champion!"
+	para "...eccomi!"
+	line "Campione della"
+	cont "LEGA #MON!"
 
-	para "<PLAYER>! Do you"
-	line "know what that"
-	cont "means?"
+	para "<PLAYER>! Sai cosa"
+	line "significa questo?"
 
-	para "I'll tell you!"
+	para "Te lo dico io!"
 
-	para "I am the most"
-	line "powerful trainer"
-	cont "in the world!"
+	para "Sono l'allenatore"
+	line "migliore"
+	cont "del mondo!"
 	done
 
 _GaryDefeatedText::
-	text "NO!"
-	line "That can't be!"
-	cont "You beat my best!"
+	text "Non può"
+	line "essere! Mi hai"
+	cont "sconfitto!"
 
-	para "After all that"
-	line "work to become"
-	cont "LEAGUE champ?"
+	para "Dopo tanta fatica"
+	line "per diventare"
+	cont "il campione"
+	cont "della LEGA!"
 
-	para "My reign is over"
-	line "already?"
-	cont "It's not fair!"
+	para "Il mio regno è già"
+	line "giunto alla fine?"
+	cont "Non è giusto!"
 	prompt
 
 _GaryVictoryText::
-	text "Hahaha!"
-	line "I won, I won!"
+	text "Ahahah!"
+	line "Ho vinto, vinto!"
 
-	para "I'm too good for"
-	line "you, <PLAYER>!"
+	para "Sono troppo forte"
+	line "per te, <PLAYER>!"
 
-	para "You did well to"
-	line "even reach me,"
-	cont "<RIVAL>, the"
-	cont "#MON genius!"
+	para "Accontentati di"
+	line "avermi raggiunto!"
+	cont "<RIVAL>, il genio"
+	cont "dei #MON!"
 
-	para "Nice try, loser!"
-	line "Hahaha!"
+	para "Ci hai provato,"
+	line "perdente!"
+	cont "Ahahah!"
 	prompt
 
 _GaryText_76103::
-	text "Why?"
-	line "Why did I lose?"
+	text "Come? Come ho"
+	line "potuto perdere?"
 
-	para "I never made any"
-	line "mistakes raising"
-	cont "my #MON..."
+	para "Ho allenato"
+	line "i miei #MON"
+	cont "alla perfezione."
 
-	para "Darn it! You're"
-	line "the new #MON"
-	cont "LEAGUE champion!"
+	para "Maledizione! Sei"
+	line "tu il nuovo"
+	cont "campione della"
+	cont "LEGA #MON!"
 
-	para "Although I don't"
-	line "like to admit it."
+	para "Sebbene sia duro"
+	line "ammetterlo."
 	done
 
 _GaryText2::
@@ -86,61 +90,61 @@ _GaryText2::
 	done
 
 _GaryText_76120::
-	text "OAK: So, you won!"
-	line "Congratulations!"
-	cont "You're the new"
-	cont "#MON LEAGUE"
-	cont "champion!"
+	text "OAK: Hai vinto!"
+	line "Congratulazioni!"
+	cont "Sei il nuovo"
+	cont "campione della"
+	cont "LEGA #MON!"
 
-	para "You've grown up so"
-	line "much since you"
-	cont "first left with"
+	para "Sei cresciuto così"
+	line "tanto da quando"
+	cont "sei partito con"
 	cont "@"
 	TX_RAM wcd6d
 	text "!"
 
-	para "<PLAYER>, you have"
-	line "come of age!"
+	para "<PLAYER>, sei"
+	line "diventato grande!"
 	done
 
 _GaryText_76125::
-	text "OAK: <RIVAL>! I'm"
-	line "disappointed!"
+	text "OAK: <RIVAL>!"
+	line "Sono deluso!"
 
-	para "I came when I"
-	line "heard you beat"
-	cont "the ELITE FOUR!"
+	para "Sono venuto appena"
+	line "ho saputo che"
+	cont "avevi battuto"
+	cont "i SUPERQUATTRO!"
 
-	para "But, when I got"
-	line "here, you had"
-	cont "already lost!"
+	para "Ma quando sono"
+	line "arrivato avevi"
+	cont "perso di nuovo!"
 
-	para "<RIVAL>! Do you"
-	line "understand why"
-	cont "you lost?"
+	para "<RIVAL>! Sai"
+	line "perché hai perso?"
 
-	para "You have forgotten"
-	line "to treat your"
-	cont "#MON with"
-	cont "trust and love!"
+	para "Non hai dimostrato"
+	line "ai tuoi #MON"
+	cont "fiducia e amore!"
 
-	para "Without them, you"
-	line "will never become"
-	cont "a champ again!"
+	para "Senza tali valori"
+	line "non diventerai"
+	cont "mai un campione!"
 	done
 
 _GaryText_7612a::
 	text "OAK: <PLAYER>!"
 
-	para "You understand"
-	line "that your victory"
-	cont "was not just your"
-	cont "own doing!"
+	para "Sai che la tua"
+	line "vittoria non è"
+	cont "stata soltanto"
+	cont "merito tuo!"
 
-	para "The bond you share"
-	line "with your #MON"
-	cont "is marvelous!"
+	para "Il vincolo che ti"
+	line "lega ai tuoi"
+	cont "#MON è"
+	cont "meraviglioso!"
 
 	para "<PLAYER>!"
-	line "Come with me!"
+	line "Vieni con me!"
 	done

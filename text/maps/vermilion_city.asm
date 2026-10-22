@@ -1,126 +1,131 @@
 _VermilionCityText1::
-	text "We're careful"
-	line "about pollution!"
+	text "Noi stiamo attenti"
+	line "all'inquinamento!"
 
-	para "We've heard GRIMER"
-	line "multiplies in"
-	cont "toxic sludge!"
+	para "Pare che GRIMER"
+	line "si riproduca nel"
+	cont "liquame tossico!"
 	done
 
 _VermilionCityText_198a7::
-	text "Did you see S.S."
-	line "ANNE moored in"
-	cont "the harbor?"
+	text "Hai visto la M/N"
+	line "ANNA ancorata al"
+	cont "porto?"
 	done
 
 _VermilionCityText_198ac::
-	text "So, S.S.ANNE has"
-	line "departed!"
+	text "La M/N ANNA"
+	line "è salpata!"
 
-	para "She'll be back in"
-	line "about a year."
+	para "Tornerà tra un"
+	line "anno."
 	done
 
 _SSAnneWelcomeText4::
-	text "Welcome to S.S."
-	line "ANNE!"
+	text "Benvenuti sulla"
+	line "M/N ANNA!"
 	done
 
 _SSAnneWelcomeText9::
-	text "Welcome to S.S."
-	line "ANNE!"
+	text "Le do il benvenuto"
+	line "sulla M/N ANNA!"
 
-	para "Excuse me, do you"
-	line "have a ticket?"
+	para "Mi scusi, ha il"
+	line "biglietto?"
 	prompt
 
 _SSAnneFlashedTicketText::
-	text "<PLAYER> flashed"
-	line "the S.S.TICKET!"
+	text "<PLAYER> esibisce"
+	line "il BIGLIETTO!"
 
-	para "Great! Welcome to"
-	line "S.S.ANNE!"
+	para "Bene! Si accomodi"
+	line "a bordo!"
 	done
 
 _SSAnneNoTicketText::
-	text "<PLAYER> doesn't"
-	line "have the needed"
-	cont "S.S.TICKET."
+	text "<PLAYER> non"
+	line "ha il BIGLIETTO"
+	cont "per la NAVE"
 
-	para "Sorry!"
+	para "Mi dispiace!"
 
-	para "You need a ticket"
-	line "to get aboard."
+	para "Serve un biglietto"
+	line "per imbarcarsi."
 	done
 
 _SSAnneNotHereText::
-	text "The ship set sail."
+	text "La nave è salpata."
 	done
 
 _VermilionCityText4::
-	text "I'm putting up a"
-	line "building on this"
-	cont "plot of land."
+	text "Su questo lotto di"
+	line "terra costruisco"
+	cont "un edificio."
 
-	para "My #MON is"
-	line "tamping the land."
+	para "I miei #MON"
+	line "stanno spianando"
+	cont "la terra."
 	done
 
 _VermilionCityText5::
-	text "MACHOP: Guoh!"
-	line "Gogogoh!@@"
+	text "MACHOP: Ciop!"
+	line "Ciop!@@"
 
 _VermilionCityText14::
 	text ""
-	para "A MACHOP is"
-	line "stomping the land"
-	cont "flat."
+	para "Un MACHOP sta"
+	line "spianando"
+	cont "la terra!"
 	done
 
 _VermilionCityText6::
-	text "S.S.ANNE is a"
-	line "famous luxury"
-	cont "cruise ship."
+	text "La M/N ANNA è una"
+	line "famosa nave"
+	cont "di lusso."
 
-	para "We visit VERMILION"
-	line "once a year."
+	para "Approdiamo ad"
+	line "ARANCIOPOLI"
+	cont "una volta l'anno."
 	done
 
 _VermilionCityText7::
-	text "VERMILION CITY"
-	line "The Port of"
-	cont "Exquisite Sunsets"
+	text "ARANCIOPOLI"
+	line "Porto dagli"
+	cont "Squisiti Tramonti"
 	done
 
 _VermilionCityText8::
-	text "NOTICE!"
+	text "AVVISO!"
 
-	para "ROUTE 12 may be"
-	line "blocked off by a"
-	cont "sleeping #MON."
+	para "Il PERCORSO 12 può"
+	line "essere bloccato"
+	cont "da un #MON"
+	cont "addormentato."
 
-	para "Detour through"
-	line "ROCK TUNNEL to"
-	cont "LAVENDER TOWN."
+	para "Deviazione tramite"
+	line "il TUNNELROCCIOSO"
+	cont "per LAVANDONIA"
 
-	para "VERMILION POLICE"
+	para "POLIZIA di"
+	line "ARANCIOPOLI"
 	done
 
 _VermilionCityText11::
 	text "#MON FAN CLUB"
-	line "All #MON fans"
-	cont "welcome!"
+	line "Benvenuti tutti"
+	cont "i fan #MON!"
 	done
 
 _VermilionCityText12::
-	text "VERMILION CITY"
-	line "#MON GYM"
-	cont "LEADER: LT.SURGE"
+	text "CAPOPALESTRA di"
+	line "ARANCIOPOLI:"
+	cont "LT. SURGE"
 
-	para "The Lightning "
-	line "American!"
+	para "L'Americano"
+	line "Illuminato!"
 	done
 
 _VermilionCityText13::
-	text "VERMILION HARBOR"
+	text "PORTO DI"
+	line "ARANCIOPOLI"
 	done

@@ -1,25 +1,25 @@
 _TM29PreReceiveText::
-	text "...Wait! Don't"
-	line "say a word!"
+	text "...Alt! Non dire"
+	line "una parola!"
 
-	para "You wanted this!"
+	para "Volevi questo!"
 	prompt
 
 _ReceivedTM29Text::
-	text "<PLAYER> received"
-	line "@"
+	text "<PLAYER> riceve"
+	line "la @"
 	TX_RAM wcf4b
 	text "!@@"
 
 _TM29ExplanationText::
-	text "TM29 is PSYCHIC!"
+	text "MT29 è PSICHICO."
 
-	para "It can lower the"
-	line "target's SPECIAL"
-	cont "abilities."
+	para "Riduce le capacità"
+	line "SPECIALI"
+	cont "dell'avversario!"
 	done
 
 _TM29NoRoomText::
-	text "Where do you plan"
-	line "to put this?"
+	text "Dove pensi di"
+	line "mettere questo?"
 	done

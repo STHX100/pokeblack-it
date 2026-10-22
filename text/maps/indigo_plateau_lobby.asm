@@ -1,25 +1,27 @@
 _IndigoPlateauLobbyText2::
-	text "Yo! Champ in"
-	line "making!"
+	text "Ehi, sgorbietto!"
 
-	para "At #MON LEAGUE,"
-	line "you have to face"
-	cont "the ELITE FOUR in"
-	cont "succession."
 
-	para "If you lose, you"
-	line "have to start all"
-	cont "over again! This"
-	cont "is it! Go for it!"
+	para "Alla LEGA #MON"
+	line "dovrai affrontare"
+	cont "uno dopo l'altro"
+	cont "i SUPERQUATTRO."
+
+
+	para "Se perdi, dovrai"
+	line "iniziare da capo!"
+	cont "Fai attenzione!"
 	done
 
 _IndigoPlateauLobbyText3::
-	text "From here on, you"
-	line "face the ELITE"
-	cont "FOUR one by one!"
+	text "Qui ha inizio la"
+	line "sfida contro i"
+	cont "SUPERQUATTRO,"
+	cont "uno dopo l'altro!"
 
-	para "If you win, a"
-	line "door opens to the"
-	cont "next trainer!"
-	cont "Good luck!"
+	para "Se vinci si aprirà"
+	line "una porta per"
+	cont "l'allenatore"
+	cont "successivo!"
+	cont "Buona fortuna!"
 	done

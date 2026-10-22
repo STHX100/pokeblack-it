@@ -1,90 +1,95 @@
 _RocketHideout4Text_4557a::
-	text "So! I must say, I"
-	line "am impressed you"
-	cont "got here!"
+	text "Mhm! Sono davvero"
+	line "sorpreso che tu"
+	cont "ce l'abbia fatta"
+	cont "ad arrivare"
+	cont "fino a me!"
 	done
 
 _RocketHideout4Text_4557f::
-	text "WHAT!"
-	line "This cannot be!"
+	text "NO!"
+	line "Non può essere!"
 	prompt
 
 _RocketHideout4Text_45584::
-	text "I see that you"
-	line "raise #MON"
-	cont "with utmost care."
+	text "Vedo che allevi i"
+	line "tuoi #MON con"
+	cont "molta passione!"
 
-	para "A child like you"
-	line "would never"
-	cont "understand what I"
-	cont "hope to achieve."
+	para "Un bambino però"
+	line "non capirebbe mai"
+	cont "ciò che spero"
+	cont "di ottenere..."
 
-	para "I shall step"
-	line "aside this time!"
+	para "Questa volta"
+	line "ti farò passare!"
 
-	para "I hope we meet"
-	line "again..."
+	para "Spero che ci"
+	line "rincontreremo!"
 	done
 
 _RocketHideout4BattleText2::
-	text "I know you! You"
-	line "ruined our plans"
-	cont "at MT.MOON!"
+	text "Ti conosco! Sei tu"
+	line "che hai rovinato"
+	cont "i nostri piani a"
+	cont "MONTELUNA!"
 	done
 
 _RocketHideout4EndBattleText2::
-	text "Burned"
-	line "again!"
+	text "Hai vinto"
+	line "di nuovo!!!"
 	prompt
 
 _RocketHide4AfterBattleText2::
-	text "Do you have"
-	line "something against"
+	text "Hai qualcosa"
+	line "contro"
 	cont "TEAM ROCKET?"
 	done
 
 _RocketHideout4BattleText3::
-	text "How can you not"
-	line "see the beauty of"
-	cont "our evil?"
+	text "Come fai"
+	line "a non vedere"
+	cont "la bellezza della"
+	cont "nostra malvagità?"
 	done
 
 _RocketHideout4EndBattleText3::
-	text "Ayaya!"
+	text "Ahiaia!"
 	prompt
 
 _RocketHide4AfterBattleText3::
-	text "BOSS! I'm sorry I"
-	line "failed you!"
+	text "Scusa, CAPO! So"
+	line "di averti deluso!"
 	done
 
 _RocketHideout4BattleText4::
-	text "The elevator"
-	line "doesn't work? Who"
-	cont "has the LIFT KEY?"
+	text "L'ascensore non"
+	line "funziona? Chi ha"
+	cont "la CHIAVE?"
 	done
 
 _RocketHideout4EndBattleText4::
-	text "No!"
+	text "Oh no!"
 	prompt
 
 _RocketHideout4Text_455ec::
-	text "Oh no! I dropped"
-	line "the LIFT KEY!"
+	text "Oh no! Ho perso"
+	line "la CHIAVE"
+	cont "DELL'ASCENSORE!"
 	done
 
 _RocketHideout4BattleText5::
-	text "You don't stand"
-	line "a chance against"
+	text "Non hai alcuna"
+	line "chance contro"
 	cont "TEAM ROCKET!"
 	done
 
 _RocketHideout4EndBattleText5::
-	text "Darn!"
-	line "I lost!"
+	text "Acc!"
+	line "Ho perso"
 	prompt
 
 _RocketHide4AfterBattleText5::
-	text "You will pay for"
-	line "this!"
+	text "Un giorno te la"
+	line "farò pagare!"
 	done

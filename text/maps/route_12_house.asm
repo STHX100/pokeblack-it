@@ -1,60 +1,59 @@
 _Route12HouseText_564c0::
-	text "I'm the FISHING"
-	line "GURU's brother!"
+	text "Sono il fratello"
+	line "del GURU"
+	cont "PESCATORE!"
 
-	para "I simply Looove"
-	line "fishing!"
+	para "Adoooro pescare!"
 
-	para "Do you like to"
-	line "fish?"
+	para "E a te piace"
+	line "la pesca?"
 	done
 
 _Route12HouseText_564c5::
-	text "Grand! I like"
-	line "your style!"
+	text "Grande! Mi piace"
+	line "il tuo stile!"
 
-	para "Take this and"
-	line "fish, young one!"
+	para "Prendi questo e"
+	line "pesca, coraggio!"
 
-	para "<PLAYER> received"
-	line "a @"
+	para "<PLAYER> riceve"
+	line "il @"
 	TX_RAM wcf4b
 	text "!@@"
 
 _Route12HouseText_564ca::
 	db $0
-	para "Fishing is a way"
-	line "of life!"
+	para "La pesca è uno"
+	line "stile di vita!"
 
-	para "From the seas to"
-	line "rivers, go out"
-	cont "and land the big"
-	cont "one!"
+	para "Dai fiumi al mare,"
+	line "pesca il pesce"
+	cont "più grosso!"
 	done
 
 _Route12HouseText_564cf::
-	text "Oh... That's so"
-	line "disappointing..."
+	text "Oh!... Ma che"
+	line "delusione..."
 	done
 
 _Route12HouseText_564d4::
-	text "Hello there,"
-	line "<PLAYER>!"
+	text "Salve, <PLAYER>!"
+	line "Come va?"
 
-	para "Use the SUPER ROD"
-	line "in any water!"
-	cont "You can catch"
-	cont "different kinds"
-	cont "of #MON."
+	para "Utilizza il SUPER"
+	line "AMO in tutte le"
+	cont "acque! Potrai"
+	cont "pescare vari"
+	cont "tipi di #MON."
 
-	para "Try fishing"
-	line "wherever you can!"
+	para "Pesca sempre"
+	line "quando puoi!"
 	done
 
 _Route12HouseText_564d9::
 	text "Oh no!"
 
-	para "I had a gift for"
-	line "you, but you have"
-	cont "no room for it!"
+	para "Avevo un regalo"
+	line "per te, ma tu non"
+	cont "hai più spazio!"
 	done

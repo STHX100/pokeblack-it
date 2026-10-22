@@ -1,35 +1,36 @@
 _Route4Text1::
-	text "Ouch! I tripped"
-	line "over a rocky"
-	cont "#MON, GEODUDE!"
+	text "Sono inciampata"
+	line "in un #MON"
+	cont "roccioso GEODUDE!"
 	done
 
 _Route4BattleText1::
-	text "I came to get my"
-	line "mushroom #MON!"
+	text "Sono qui per avere"
+	line "il mio #MON"
+	cont "tipo fungo!"
 	done
 
 _Route4EndBattleText1::
-	text "Oh! My cute"
-	line "mushroom #MON!"
+	text "Il mio bel"
+	line "#MON-fungo!"
 	prompt
 
 _Route4AfterBattleText1::
-	text "There might not"
-	line "be any more"
-	cont "mushrooms here."
+	text "È probabile che"
+	line "non ci siano più"
+	cont "funghi qui!"
 
-	para "I think I got"
-	line "them all."
+	para "Penso di averli"
+	line "già tutti."
 	done
 
 _Route4Text5::
-	text "MT.MOON"
-	line "Tunnel Entrance"
+	text "MONTELUNA"
+	line "Entrata tunnel"
 	done
 
 _Route4Text6::
-	text "ROUTE 4"
-	line "MT.MOON -"
-	cont "CERULEAN CITY"
+	text "PERCORSO 4"
+	line "MONTELUNA -"
+	cont "CELESTOPOLI"
 	done

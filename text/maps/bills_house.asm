@@ -1,87 +1,86 @@
 _BillsHouseText_1e865::
-	text "Hiya! I'm a"
+	text "Ehi tu! Sono un"
 	line "#MON..."
-	cont "...No I'm not!"
+	cont "...no anzi!"
 
-	para "Call me BILL!"
-	line "I'm a true blue"
-	cont "#MANIAC! Hey!"
-	cont "What's with that"
-	cont "skeptical look?"
+	para "Chiamami BILL!"
+	line "Sono un autentico"
+	cont "POKéFANATICO!"
+	cont "Cos'è quella"
+	cont "faccia scettica?"
 
-	para "I'm not joshing"
-	line "you, I screwed up"
-	cont "an experiment and"
-	cont "got combined with"
-	cont "a #MON!"
+	para "Non scherzo! Ho"
+	line "mandato all'aria"
+	cont "un esperimento e"
+	cont "mi sono mischiato"
+	cont "con un #MON!"
 
-	para "So, how about it?"
-	line "Help me out here!"
+	para "E ora come faccio?"
+	line "Aiutami ti prego!"
 	done
 
 _BillsHouseText_1e86a::
-	text "When I'm in the"
-	line "TELEPORTER, go to"
-	cont "my PC and run the"
-	cont "Cell Separation"
-	cont "System!"
+	text "Quando sono nel"
+	line "TELETRASPORTO, va"
+	cont "al mio PC e avvia"
+	cont "la Separazione"
+	cont "Cellulare!"
+
 	done
 
 _BillsHouseText_1e86f::
-	text "No!? Come on, you"
-	line "gotta help a guy"
-	cont "in deep trouble!"
+	text "No!? E dai! Aiuta"
+	line "un povero diavolo"
+	cont "in difficoltà!"
 
-	para "What do you say,"
-	line "chief? Please?"
-	cont "OK? All right!"
+	para "Che ne dici, capo?"
+	line "Per favore? OK?"
+	cont "Benissimo!"
 	prompt
 
 _BillThankYouText::
-	text "BILL: Yeehah!"
-	line "Thanks, bud! I"
-	cont "owe you one!"
+	text "BILL: Evviva! Ti"
+	line "devo un favore!"
+	cont "Grazie infinite!"
 
-	para "So, did you come"
-	line "to see my #MON"
-	cont "collection?"
-	cont "You didn't?"
-	cont "That's a bummer."
+	para "Sei qui per vedere"
+	line "la mia collezione"
+	cont "di #MON? No?"
+	cont "Che peccato!"
 
-	para "I've got to thank"
-	line "you... Oh here,"
-	cont "maybe this'll do."
+	para "Sono in debito con"
+	line "te... Ecco la tua"
+	cont "ricompensa!"
 	prompt
 
 _SSTicketReceivedText::
-	text "<PLAYER> received"
-	line "an @"
+	text "<PLAYER> riceve"
+	line "il @"
 	TX_RAM wcf4b
 	text "!@@"
 
 _SSTicketNoRoomText::
-	text "You've got too"
-	line "much stuff, bud!"
+	text "Hai troppa roba"
+	line "addosso, lo sai?!"
 	done
 
 _BillsHouseText_1e8cb::
-	text "That cruise ship,"
-	line "S.S.ANNE, is in"
-	cont "VERMILION CITY."
-	cont "Its passengers"
-	cont "are all trainers!"
+	text "Quella nave, la"
+	line "M/N ANNA, è ad"
+	cont "ARANCIOPOLI. I"
+	cont "suoi passeggeri"
+	cont "sono allenatori!"
 
-	para "They invited me"
-	line "to their party,"
-	cont "but I can't stand"
-	cont "fancy do's. Why"
-	cont "don't you go"
-	cont "instead of me?"
+	para "Mi hanno invitato"
+	line "alla festa, ma io"
+	cont "le odio. Perchè"
+	cont "non ci vai tu al"
+	cont "posto mio?"
 	done
 
 _BillsHouseText_1e8da::
-	text "BILL: Look, bud,"
-	line "just check out"
-	cont "some of my rare"
-	cont "#MON on my PC!"
+	text "BILL: Guarda, ho"
+	line "dei #MON molto"
+	cont "rari nel PC!"
+
 	done

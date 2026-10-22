@@ -1,97 +1,98 @@
 _Route6BattleText1::
-	text "Who's there?"
-	line "Quit listening in"
-	cont "on us!"
+	text "Chi va là? Smetti"
+	line "di origliare!"
 	done
 
 _Route6EndBattleText1::
-	text "I"
-	line "just can't win!"
+	db $0
+	line "Elementare, non"
+	cont "riesco a vincere!"
 	prompt
 
 _Route6AfterBattleText1::
-	text "Whisper..."
-	line "whisper..."
+	text "Sussurro..."
+	line "Sussurro..."
 	done
 
 _Route6BattleText2::
-	text "Excuse me! This"
-	line "is a private"
-	cont "conversation!"
+	text "Scusa, ma è una"
+	line "conversazione"
+	cont "privata!"
 	done
 
 _Route6EndBattleText2::
-	text "Ugh!"
-	line "I hate losing!"
+	text "Grr!"
+	line "Odio perdere!"
 	prompt
 
 _Route6BattleText3::
-	text "There aren't many"
-	line "bugs out here."
+	text "Non ci sono molti"
+	line "coleotteri qui."
 	done
 
 _Route6EndBattleText3::
 	text "No!"
-	line "You're kidding!"
+	line "Scherzi?!"
 	prompt
 
 _Route6AfterBattleText3::
-	text "I like bugs, so"
-	line "I'm going back to"
-	cont "VIRIDIAN FOREST."
+	text "Mi piacciono i"
+	line "coleotteri!"
+	cont "Tornerò a"
+	cont "BOSCOSMERALDO."
 	done
 
 _Route6BattleText4::
-	text "Huh? You want"
-	line "to talk to me?"
+	text "Eh? Volevi"
+	line "parlarmi?"
 	done
 
 _Route6EndBattleText4::
-	text "I"
-	line "didn't start it!"
+	text "Non"
+	line "ho cominciato io!"
 	prompt
 
 _Route6AfterBattleText4::
-	text "I should carry"
-	line "more #MON with"
-	cont "me for safety."
+	text "Per sicurezza"
+	line "dovrei portar più"
+	cont "#MON con me."
 	done
 
 _Route6BattleText5::
-	text "Me? Well, OK."
-	line "I'll play!"
+	text "Dici a me? Bene!"
+	line "Giochiamo!"
 	done
 
 _Route6EndBattleText5::
-	text "Just"
-	line "didn't work!"
+	text "Non"
+	line "ha funzionato!"
 	prompt
 
 _Route6AfterBattleText5::
-	text "I want to get"
-	line "stronger! What's"
-	cont "your secret?"
+	text "Devo rinforzarmi!"
+	line "Qual è il tuo"
+	cont "segreto?"
 	done
 
 _Route6BattleText6::
-	text "I've never seen"
-	line "you around!"
-	cont "Are you good?"
+	text "Non ti ho mai"
+	line "visto in giro!"
+	cont "Sei in gamba?"
 	done
 
 _Route6EndBattleText6::
-	text "You"
-	line "are too good!"
+	text "Sei"
+	line "troppo in gamba!"
 	prompt
 
 _Route6AfterBattleText6::
-	text "Are my #MON"
-	line "weak? Or, am I"
-	cont "just bad?"
+	text "Sono deboli i miei"
+	line "#MON o sono un"
+	cont "disastro io?"
 	done
 
 _Route6Text7::
-	text "UNDERGROUND PATH"
-	line "CERULEAN CITY -"
-	cont "VERMILION CITY"
+	text "VIA SOTTERRANEA"
+	line "CELESTOPOLI -"
+	cont "ARANCIOPOLI"
 	done

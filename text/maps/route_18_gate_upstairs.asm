@@ -1,24 +1,24 @@
 _Route18GateUpstairsText_49993::
-	text "Looked into the"
-	line "binoculars."
+	text "Guardo con"
+	line "il binocolo..."
 
-	para "PALLET TOWN is in"
-	line "the west!"
+	para "BIANCAVILLA"
+	line "è a Ovest!"
 	done
 
 _Route18GateUpstairsText_4999f::
-	text "Looked into the"
-	line "binoculars."
+	text "Guardo con"
+	line "il binocolo..."
 
-	para "There are people"
-	line "swimming!"
+	para "C'è qualcuno"
+	line "che nuota!"
 	done
 
 
 _Route18GateUpstairsText_4999fAlt::
-	text "Looked into the"
-	line "binoculars."
+	text "Guardo con"
+	line "il binocolo..."
 
-	para "MT. MOON is far"
-	line "ahead!"
+	para "Il MONTE LUNA è"
+	line "proprio lontano!"
 	done

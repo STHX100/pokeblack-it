@@ -1,20 +1,22 @@
 _FuchsiaPokecenterText1::
-	text "You can't win"
-	line "with just one"
-	cont "strong #MON."
+	text "Non puoi vincere"
+	line "con un solo "
+	cont "#MON forte."
 
-	para "It's tough, but"
-	line "you have to raise"
-	cont "them evenly."
+	para "È difficile, ma li"
+	line "devi allenare"
+	cont "tutti in modo"
+	cont "uniforme."
 	done
 
 _FuchsiaPokecenterText3::
-	text "There's a narrow"
-	line "trail west of"
-	cont "VIRIDIAN CITY."
+	text "C'è un passaggio"
+	line "stretto ad Ovest"
+	cont "di SMERALDOPOLI."
 
-	para "It goes to #MON"
-	line "LEAGUE HQ."
-	cont "The HQ governs"
-	cont "all trainers."
+	para "Porta alla SEDE"
+	line "CENTRALE della"
+	cont "LEGA #MON che"
+	cont "comanda tutti gli"
+	cont "allenatori."
 	done

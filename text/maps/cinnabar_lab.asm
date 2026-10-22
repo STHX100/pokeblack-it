@@ -1,29 +1,30 @@
 _Lab1Text1::
-	text "We study #MON"
-	line "extensively here."
+	text "Studiamo i #MON"
+	line "attentamente qui."
 
-	para "People often bring"
-	line "us rare #MON"
-	cont "for examination."
+	para "Spesso ci portano"
+	line "dei #MON rari"
+	cont "da esaminare."
 	done
 
 _Lab1Text2::
-	text "A photo of the"
-	line "LAB's founder,"
-	cont "DR.FUJI!"
+	text "Una foto del"
+	line "fondatore del"
+	cont "LABORATORIO,"
+	cont "il DR.FUJI!"
 	done
 
 _Lab1Text3::
-	text "#MON LAB"
-	line "Meeting Room"
+	text "LABORAT.#MON"
+	line "Sala Riunioni"
 	done
 
 _Lab1Text4::
-	text "#MON LAB"
-	line "R-and-D Room"
+	text "LABORAT.#MON"
+	line "Ricerca/Sviluppo"
 	done
 
 _Lab1Text5::
-	text "#MON LAB"
-	line "Testing Room"
+	text "LABORAT.#MON"
+	line "Sala Prove"
 	done

@@ -1,173 +1,175 @@
 _Route14BattleText1::
-	text "You need to use"
-	line "TMs to teach good"
-	cont "moves to #MON!"
+	text "Usa le MT per"
+	line "insegnare buone"
+	cont "mosse ai #MON!"
 	done
 
 _Route14EndBattleText1::
-	text "Not"
-	line "good enough!"
+	db $0
+	line "Ancora non va!"
 	prompt
 
 _Route14AfterBattleText1::
-	text "You have some HMs"
-	line "right? #MON"
-	cont "can't ever forget"
-	cont "those moves."
+	text "Hai delle MN, eh?"
+	line "I #MON non"
+	cont "dimenticheranno"
+	cont "mai quelle mosse."
 	done
 
 _Route14BattleText2::
-	text "My bird #MON"
-	line "should be ready"
-	cont "for battle."
+	text "I miei #MON"
+	line "uccello sono"
+	cont "pronti a lottare."
 	done
 
 _Route14EndBattleText2::
-	text "Not"
-	line "ready yet!"
+	text "No!"
+	line "Non lo erano!"
 	prompt
 
 _Route14AfterBattleText2::
-	text "They need to learn"
-	line "better moves."
+	text "Devono imparare"
+	line "mosse migliori."
 	done
 
 _Route14BattleText3::
-	text "TMs are on sale"
-	line "in CELADON!"
-	cont "But, only a few"
-	cont "people have HMs!"
+	text "Si vendono MT ad"
+	line "AZZURROPOLI!"
+	cont "Le MN invece"
+	cont "sono rare!"
 	done
 
 _Route14EndBattleText3::
-	text "Aww,"
-	line "bummer!"
+	text "Ahi!"
+	line "Che dolore!"
 	prompt
 
 _Route14AfterBattleText3::
-	text "Teach #MON"
-	line "moves of the same"
-	cont "element type for"
-	cont "more power."
+	text "Insegna ai #MON"
+	line "mosse del suo"
+	cont "stesso elemento"
+	cont "perché siano più"
+	cont "potenti."
 	done
 
 _Route14BattleText4::
-	text "Have you taught"
-	line "your bird #MON"
-	cont "how to FLY?"
+	text "Hai insegnato"
+	line "il VOLO ai tuoi"
+	cont "#MON uccello?"
 	done
 
 _Route14EndBattleText4::
-	text "Shot"
-	line "down in flames!"
+	db $0
+	line "Mi hai bruciato!"
 	prompt
 
 _Route14AfterBattleText4::
-	text "Bird #MON are"
-	line "my true love!"
+	text "Adoro i"
+	line "#MON uccello!"
 	done
 
 _Route14BattleText5::
-	text "Have you heard of"
-	line "the legendary"
-	cont "#MON?"
+	text "Hai mai sentito"
+	line "dei #MON"
+	cont "leggendari?"
 	done
 
 _Route14EndBattleText5::
-	text "Why?"
-	line "Why'd I lose?"
+	db $0
+	line "Ho perso?"
+	cont "Perché? Perché?"
 	prompt
 
 _Route14AfterBattleText5::
-	text "The 3 legendary"
-	line "#MON are all"
-	cont "birds of prey."
+	text "I 3 #MON"
+	line "leggendari sono"
+	cont "uccelli rapaci."
 	done
 
 _Route14BattleText6::
-	text "I'm not into it,"
-	line "but OK! Let's go!"
+	text "Non fa per me,"
+	line "però va bene!"
 	done
 
 _Route14EndBattleText6::
-	text "I"
-	line "knew it!"
+	db $0
+	line "Lo sapevo!"
 	prompt
 
 _Route14AfterBattleText6::
-	text "Winning, losing,"
-	line "it doesn't matter"
-	cont "in the long run!"
+	text "Vincere, perdere"
+	line "che importanza"
+	cont "ha in fondo?!"
 	done
 
 _Route14BattleText7::
-	text "C'mon, c'mon."
-	line "Let's go, let's"
-	cont "go, let's go!"
+	text "Forza! Forza!"
+	line "Avanti, andiamo,"
+	cont "sottoooo!"
 	done
 
 _Route14EndBattleText7::
-	text "Arrg!"
-	line "Lost! Get lost!"
+	text "Grr!"
+	line "Ho perso! Smamma!"
 	prompt
 
 _Route14AfterBattleText7::
-	text "What, what, what?"
-	line "What do you want?"
+	text "Che? Che? Che?"
+	line "Che vuoi?"
 	done
 
 _Route14BattleText8::
-	text "Perfect! I need to"
-	line "burn some time!"
+	text "Devo ingannare il"
+	line "tempo, a volte!"
 	done
 
 _Route14EndBattleText8::
-	text "What?"
-	line "You!?"
+	text "Cosa?"
+	line "Tu?!"
 	prompt
 
 _Route14AfterBattleText8::
-	text "Raising #MON"
-	line "is a drag, man."
+	text "Addestrare #MON"
+	line "è una faticaccia!"
 	done
 
 _Route14BattleText9::
-	text "We ride out here"
-	line "because there's"
-	cont "more room!"
+	text "Veniamo qui con la"
+	line "moto perché c'è"
+	cont "più spazio!"
 	done
 
 _Route14EndBattleText9::
-	text "Wipe out!"
+	db $0
+	line "Volatizzati!!"
 	prompt
 
 _Route14AfterBattleText9::
-	text "It's cool you"
-	line "made your #MON"
-	cont "so strong!"
+	text "Fooorte! I tuoi"
+	line "#MON sono"
+	cont "potentissimi!"
 
-	para "Might is right!"
-	line "And you know it!"
+	para "La forza è tutto!"
+	line "E tu lo sai!"
 	done
 
 _Route14BattleText10::
-	text "#MON fight?"
-	line "Cool! Rumble!"
+	text "Lotta #MON?"
+	line "Eccome no!"
 	done
 
 _Route14EndBattleText10::
-	text "Blown"
-	line "away!"
+	db $0
+	line "Spazzato via!"
 	prompt
 
 _Route14AfterBattleText10::
-	text "You know who'd"
-	line "win, you and me"
-	cont "one on one!"
+	text "Sapevi chi avrebbe"
+	line "vinto! Che sfida!"
 	done
 
 _Route14Text11::
-	text "ROUTE 14"
-	line "West to FUCHSIA"
-	cont "CITY"
+	text "PERCORSO 14"
+	line "FUCSIAPOLI"
+	cont "a Ovest"
 	done

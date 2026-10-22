@@ -1,12 +1,13 @@
 _SaffronPokecenterText2::
-	text "#MON growth"
-	line "rates differ from"
-	cont "specie to specie."
+	text "Il ritmo di"
+	line "crescita dei"
+	cont "#MON varia da"
+	cont "specie a specie."
 	done
 
 _SaffronPokecenterText3::
-	text "SILPH CO. is very"
-	line "famous. That's"
-	cont "why it attracted"
-	cont "TEAM ROCKET!"
+	text "SILPH SpA è molto"
+	line "famosa, così TEAM"
+	cont "ROCKET voleva"
+	cont "impadronirsene!"
 	done

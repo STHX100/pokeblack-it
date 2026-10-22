@@ -1,37 +1,38 @@
 _CinnabarIslandText8::
-	text "The door is"
-	line "locked..."
+	text "La porta è"
+	line "chiusa..."
 	done
 
 _CinnabarIslandText1::
-	text "CINNABAR GYM's"
-	line "BLAINE is an odd"
-	cont "man who has lived"
-	cont "here for decades."
+	text "BLAINE della"
+	line "PALESTRA CANNELLA"
+	cont "è un uomo strano"
+	cont "che vive qui"
+	cont "da decenni."
 	done
 
 _CinnabarIslandText2::
-	text "Scientists conduct"
-	line "experiments in"
-	cont "the burned out"
-	cont "building."
+	text "Gli scienziati"
+	line "fanno esperimenti"
+	cont "nell'edificio"
+	cont "incendiato."
 	done
 
 _CinnabarIslandText3::
-	text "CINNABAR ISLAND"
-	line "The Fiery Town of"
-	cont "Burning Desire"
+	text "ISOLA CANNELLA"
+	line "Città Ardente!"
 	done
 
 _CinnabarIslandText6::
-	text "#MON LAB"
+	text "LABORATORIO"
+	line "#MON"
 	done
 
 _CinnabarIslandText7::
-	text "CINNABAR ISLAND"
-	line "#MON GYM"
-	cont "LEADER: BLAINE"
+	text "CAPOPALESTRA dell'"
+	line "ISOLA CANNELLA:"
+	cont "BLAINE"
 
-	para "The Hot-Headed"
-	line "Quiz Master!"
+	para "Il Cervellotico"
+	line "Maestro di Quiz!"
 	done

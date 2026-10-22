@@ -1,131 +1,136 @@
 _CeruleanGymText_5c7be::
-	text "Hi, you're a new"
-	line "face!"
+	text "Ciao! Sei nuovo"
+	line "di queste parti!"
 
-	para "Trainers who want"
-	line "to turn pro have"
-	cont "to have a policy"
-	cont "about #MON!"
+	para "Gli allenatori"
+	line "professionisti"
+	cont "devono avere una"
+	cont "strategia per i"
+	cont "loro #MON!"
 
-	para "What is your"
-	line "approach when you"
-	cont "catch #MON?"
+	para "Come ti comporti"
+	line "quando catturi"
+	cont "i #MON?"
 
-	para "My policy is an"
-	line "all-out offensive"
-	cont "with water-type"
-	cont "#MON!"
+	para "La mia tattica è"
+	line "un'offensiva"
+	cont "totale con"
+	cont "#MON d'acqua!"
 	done
 
 _CeruleanGymText_5c7c3::
-	text "TM11 teaches"
-	line "BUBBLEBEAM!"
+	text "La MT11 insegna"
+	line "BOLLARAGGIO!"
 
-	para "Use it on an"
-	line "aquatic #MON!"
+	para "Usala sui"
+	line "#MON d'acqua!"
 	done
 
 _CeruleanGymText_5c7c8::
-	text "The CASCADEBADGE"
-	line "makes all #MON"
-	cont "up to L30 obey!"
+	text "Con la MEDAGLIA"
+	line "CASCATA tutti i"
+	cont "#MON fino al"
+	cont "livello 30 ti"
+	cont "obbediranno..."
 
-	para "That includes"
-	line "even outsiders!"
+	para "anche i #MON"
+	line "acquisiti!"
 
-	para "There's more, you"
-	line "can now use CUT"
-	cont "any time!"
+	para "Inoltre puoi usare"
+	line "TAGLIO tutte le"
+	cont "volte che vuoi!"
 
-	para "You can CUT down"
-	line "small bushes to"
-	cont "open new paths!"
+	para "Puoi TAGLIARE i"
+	line "piccoli arbusti"
+	cont "per aprire nuovi"
+	cont "passaggi!"
 
-	para "You can also have"
-	line "my favorite TM!"
+	para "Ti do anche la mia"
+	line "MT preferita!"
 	done
 
 _ReceivedTM11Text::
-	text "<PLAYER> received"
-	line "TM11!@@"
+	text "<PLAYER> riceve"
+	line "la MT11!@@"
 
 _CeruleanGymText_5c7d3::
-	text "You better make"
-	line "room for this!"
+	text "Fai spazio"
+	line "per questo!"
 	done
 
 _CeruleanGymText_5c7d8::
-	text "Wow!"
-	line "You're too much!"
+	text "Wow! Sei"
+	line "troppo forte!"
 
-	para "All right!"
+	para "Molto bene!"
 
-	para "You can have the"
-	line "CASCADEBADGE to"
-	cont "show you beat me!@@"
+	para "La MEDAGLIA"
+	line "CASCATA indicherà"
+	cont "che mi hai vinto!@@"
 
 _CeruleanGymBattleText1::
-	text "I'm more than good"
-	line "enough for you!"
+	text "Sono anche troppo"
+	line "forte per te!"
 
-	para "MISTY can wait!"
+	para "MISTY aspetterà!"
 	done
 
 _CeruleanGymEndBattleText1::
-	text "You"
-	line "overwhelmed me!"
+	db $0
+	line "Mi hai sconfitto!"
 	prompt
 
 _CeruleanGymAfterBattleText1::
-	text "You have to face"
-	line "other trainers to"
-	cont "find out how good"
-	cont "you really are."
+	text "Devi misurarti con"
+	line "altri allenatori"
+	cont "per vedere quanto"
+	cont "vali davvero."
 	done
 
 _CeruleanGymBattleText2::
 	text "Splash!"
 
-	para "I'm first up!"
-	line "Let's do it!"
+	para "Sono il primo!"
+	line "In guardia!"
 	done
 
 _CeruleanGymEndBattleText2::
-	text "That"
-	line "can't be!"
+	db $0
+	line "Non può essere!"
 	prompt
 
 _CeruleanGymAfterBattleText2::
-	text "MISTY is going to"
-	line "keep improving!"
+	text "MISTY migliora"
+	line "continuamente!"
 
-	para "She won't lose to"
-	line "someone like you!"
+	para "Non perderà certo"
+	line "contro di te!"
 	done
 
 _CeruleanGymText_5c82a::
-	text "Yo! Champ in"
-	line "making!"
+	text "Ehi! Aspirante"
+	line "campione!"
 
-	para "Here's my advice!"
+	para "Un consiglio!"
 
-	para "The LEADER, MISTY,"
-	line "is a pro who uses"
-	cont "water #MON!"
+	para "Il CAPOPALESTRA,"
+	line "MISTY, usa"
+	cont "#MON d'acqua e"
+	cont "è infallibile!"
 
-	para "You can drain all"
-	line "their water with"
-	cont "plant #MON!"
+	para "Ma puoi assorbire"
+	line "l'acqua usando"
+	cont "#MON d'erba!"
 
-	para "Or, zap them with"
-	line "electricity!"
+	para "O fulminarli con"
+	line "l'elettricità!"
 	done
 
 _CeruleanGymText_5c82f::
-	text "You beat MISTY!"
-	line "What'd I tell ya?"
+	text "Hai battuto MISTY!"
+	line "Te l'avevo detto!"
 
-	para "You and me kid,"
-	line "we make a pretty"
-	cont "darn good team!"
+	para "Tu e io insieme"
+	line "facciamo una"
+	cont "bella squadra!"
 	done

@@ -1,56 +1,55 @@
 _SilphCo8Text_565be::
-	text "I wonder if SILPH"
-	line "is finished..."
+	text "Chissà se per la"
+	line "SILPH è finita."
 	done
 
 _SilphCo8Text_565c3::
-	text "Thanks for saving"
-	line "us!"
+	text "Grazie per"
+	line "averci salvato!"
 	done
 
 _SilphCo8BattleText1::
-	text "That's as far as"
-	line "you'll go!"
+	text "Non potrai"
+	line "andare oltre!"
 	done
 
 _SilphCo8EndBattleText1::
-	text "Not"
-	line "enough grit!"
+	db $0
+	line "Poca grinta!"
 	prompt
 
 _SilphCo8AfterBattleText1::
-	text "If you don't turn"
-	line "back, I'll call"
-	cont "for backup!"
+	text "Gira i tacchi o"
+	line "chiamo rinforzi!"
 	done
 
 _SilphCo8BattleText2::
-	text "You're causing us"
-	line "problems!"
+	text "Ci stai dando una"
+	line "mole di problemi!"
 	done
 
 _SilphCo8EndBattleText2::
-	text "Huh?"
-	line "I lost?"
+	text "Cosa?"
+	line "Ho perso?"
 	prompt
 
 _SilphCo8AfterBattleText2::
-	text "So, what do you"
-	line "think of SILPH"
-	cont "BUILDING's maze?"
+	text "Cosa pensi del"
+	line "labirinto della"
+	cont "SILPH?"
 	done
 
 _SilphCo8BattleText3::
-	text "I am one of the 4"
-	line "ROCKET BROTHERS!"
+	text "Sono uno dei 4"
+	line "FRATELLI ROCKET!"
 	done
 
 _SilphCo8EndBattleText3::
-	text "Whoo!"
-	line "Oh brothers!"
+	text "Che botta,"
+	line "fratelli miei!"
 	prompt
 
 _SilphCo8AfterBattleText3::
-	text "I'll leave you up"
-	line "to my brothers!"
+	text "Ti lascio in mano"
+	line "ai miei fratelli!"
 	done

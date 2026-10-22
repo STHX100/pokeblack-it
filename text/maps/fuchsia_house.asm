@@ -1,27 +1,28 @@
 _FuchsiaHouse1Text1::
-	text "SAFARI ZONE's"
-	line "WARDEN is old,"
-	cont "but still active!"
+	text "Il GUARDIANO della"
+	line "ZONA SAFARI è"
+	cont "vecchio, ma"
+	cont "ancora in gamba!"
 
-	para "All his teeth are"
-	line "false, though."
+	para "Però porta la"
+	line "dentiera!"
 	done
 
 _FuchsiaHouse1Text2::
-	text "Hmm? You've met"
+	text "Hmm? Conosci"
 	line "BILL?"
 
-	para "He's my grandson!"
+	para "È mio nipote!"
 
-	para "He always liked"
-	line "collecting things"
-	cont "even as a child!"
+	para "Faceva collezioni"
+	line "anche da piccolo!"
 	done
 
 _FuchsiaHouse1Text3::
-	text "BILL files his"
-	line "own #MON data"
-	cont "on his PC!"
+	text "BILL registra i"
+	line "dati dei suoi"
+	cont "#MON nel"
+	cont "suo PC!"
 
-	para "Did he show you?"
+	para "Te l'ha mostrato?"
 	done

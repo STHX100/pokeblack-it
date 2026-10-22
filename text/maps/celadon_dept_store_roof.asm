@@ -1,21 +1,21 @@
 _CeladonMartRoofText_484ee::
-	text "Give her which"
-	line "drink?"
+	text "Quale bibita"
+	line "le dai?"
 	done
 
 _CeladonMartRoofText_484f3::
-	text "Yay!"
+	text "Ehi!"
 
-	para "FRESH WATER!"
+	para "ACQUA FRESCA!"
 
-	para "Thank you!"
+	para "Grazie!"
 
-	para "You can have this"
-	line "from me!@@"
+	para "Prendila,"
+	line "è per te!@@"
 
 _CeladonMartRoofText_484f9::
-	text "<PLAYER> received"
-	line "@"
+	text "<PLAYER> riceve"
+	line "la @"
 	TX_RAM wcf4b
 	text "!@@"
 
@@ -23,25 +23,25 @@ _CeladonMartRoofText_484fe::
 	db $0
 	para "@"
 	TX_RAM wcf4b
-	text " contains"
-	line "ICE BEAM!"
+	text " contiene"
+	line "GELORAGGIO!"
 
-	para "It can freeze the"
-	line "target sometimes!@@"
+	para "Può congelare"
+	line "il bersaglio!@@"
 
 _CeladonMartRoofText_48504::
-	text "Yay!"
+	text "Fantastico!"
 
-	para "SODA POP!"
+	para "GASSOSA!"
 
-	para "Thank you!"
+	para "Grazie!"
 
-	para "You can have this"
-	line "from me!@@"
+	para "Prendila,"
+	line "è per te!@@"
 
 _CeladonMartRoofText_4850a::
-	text "<PLAYER> received"
-	line "@"
+	text "<PLAYER> riceve"
+	line "la @"
 	TX_RAM wcf4b
 	text "!@@"
 
@@ -49,90 +49,89 @@ _CeladonMartRoofText_4850f::
 	db $0
 	para "@"
 	TX_RAM wcf4b
-	text " contains"
-	line "ROCK SLIDE!"
+	text " contiene"
+	line "FRANA!"
 
-	para "It can spook the"
-	line "target sometimes!@@"
+	para "Può atterrire"
+	line "l'avversario!@@"
 
 _CeladonMartRoofText_48515::
-	text "Yay!"
+	text "Forte!"
 
-	para "LEMONADE!"
+	para "LEMONSUCCO!"
 
-	para "Thank you!"
+	para "Grazie!"
 
-	para "You can have this"
-	line "from me!@@"
+	para "Prendilo,"
+	line "è per te!@@"
 
 _ReceivedTM49Text::
-	text "<PLAYER> received"
-	line "TM49!@@"
+	text "<PLAYER> riceve"
+	line "la MT49!@@"
 
 _CeladonMartRoofText_48520::
 	db $0
-	para "TM49 contains"
-	line "TRI ATTACK!@@"
+	para "La MT49 contiene"
+	line "TRIPLETTA!@@"
 
 _CeladonMartRoofText_48526::
-	text "You don't have"
-	line "space for this!@@"
+	text "Non hai più spazio"
+	line "per questo!@@"
 
 _CeladonMartRoofText_4852c::
-	text "No thank you!"
-	line "I'm not thirsty"
-	cont "after all!@@"
+	text "No, grazie!"
+	line "Tanto non ho"
+	cont "molta sete!@@"
 
 _CeladonMartRoofText1::
-	text "My sister is a"
-	line "trainer, believe"
-	cont "it or not."
+	text "Mia sorella è un"
+	line "allenatore, che"
+	cont "tu ci creda o no!"
 
-	para "But, she's so"
-	line "immature, she"
-	cont "drives me nuts!"
+	para "Ma è così immatura"
+	line "che mi fa perdere"
+	cont "le staffe!"
 	done
 
 _CeladonMartRoofText_48598::
-	text "I'm thirsty!"
-	line "I want something"
-	cont "to drink!"
+	text "Ho sete!"
+	line "Vorrei qualcosa"
+	cont "da bere!"
 	done
 
 _CeladonMartRoofText4::
-	text "I'm thirsty!"
-	line "I want something"
-	cont "to drink!"
-
-	para "Give her a drink?"
+	text "Ho sete!"
+	line "Vorrei qualcosa"
+	cont "da bere!"
 	done
 
 _CeladonMartRoofText6::
-	text "ROOFTOP SQUARE:"
-	line "VENDING MACHINES"
+	text "ULTIMO PIANO:"
+	line "DISTRIBUTORI AUT."
 	done
 
 _VendingMachineText1::
-	text "A vending machine!"
-	line "Here's the menu!"
+	text "Un distributore!"
+	line "Ecco i prodotti!"
 	prompt
 
 _VendingMachineText4::
-	text "Oops, not enough"
-	line "money!"
+	text "Caspita, non ho"
+	line "abbastanza soldi!"
 	done
 
 _VendingMachineText5::
+	text "Esce"
+	line "@"
 	TX_RAM wcf4b
-	db $0
-	line "popped out!"
+	text "!"
 	done
 
 _VendingMachineText6::
-	text "There's no more"
-	line "room for stuff!"
+	text "Non hai più spazio"
+	line "per nient'altro!"
 	done
 
 _VendingMachineText7::
-	text "Not thirsty!"
+	text "Non ho sete!"
 	done

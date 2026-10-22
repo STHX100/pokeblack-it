@@ -1,49 +1,52 @@
 _TM39PreReceiveText::
-	text "My #MON's"
-	line "ashes are stored"
-	cont "in #MON TOWER."
+	text "Le ceneri dei miei"
+	line "#MON sono"
+	cont "conservate nella"
+	cont "TORRE #MON."
 
-	para "You can have this"
-	line "TM. I don't need"
-	cont "it any more..."
+	para "Puoi avere questa"
+	line "mia MT. Non mi"
+	cont "serve più ormai!"
 	prompt
 
 _ReceivedTM39Text::
-	text "<PLAYER> received"
-	line "TM39!@@"
+	text "<PLAYER> riceve"
+	line "la MT39!@@"
 
 _TM39ExplanationText::
-	text "TM39 is a move"
-	line "called SWIFT."
+	text "La MT39 è"
+	line "COMETE!"
 
-	para "It's very accurate,"
-	line "so use it during"
-	cont "battles you can't"
-	cont "afford to lose."
+	para "Alta precisione!"
+	line "Usala nelle lotte"
+	cont "che non puoi"
+	cont "perdere!"
 	done
 
 _TM39NoRoomText::
-	text "You don't have"
-	line "room for this."
+	text "Non hai più spazio"
+	line "per questo!"
 	done
 
 _Route12GateUpstairsText_495b8::
-	text "Looked into the"
-	line "binoculars."
+	text "Guardo con"
+	line "il binocolo..."
 
-	para "A man fishing!"
+	para "C'è un uomo"
+	line "che pesca!"
 	done
 
 _Route12GateUpstairsText_495b8Alt::
-	text "Looked into the"
-	line "binoculars."
+	text "Guardo con"
+	line "il binocolo..."
 
-	para "A distant river!"
+	para "Si vede un fiume!"
 	done
 
 _Route12GateUpstairsText_495c4::
-	text "Looked into the"
-	line "binoculars."
+	text "Guardo con"
+	line "il binocolo..."
 
-	para "It's #MON TOWER!"
+	para "È la TORRE"
+	line "#MON!"
 	done

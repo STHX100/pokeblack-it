@@ -1,85 +1,85 @@
 _LavenderHouse1Text_1d8d1::
-	text "That's odd, MR.FUJI"
-	line "isn't here."
-	cont "Where'd he go?"
+	text "È strano, MR.FUJI"
+	line "non è qui. Dov'è?"
 	done
 
 _LavenderHouse1Text_1d8d6::
-	text "MR.FUJI had been"
-	line "praying alone for"
-	cont "CUBONE's mother."
+	text "MR.FUJI pregava"
+	line "per la madre"
+	cont "di CUBONE."
 	done
 
 _LavenderHouse1Text_1d8f4::
-	text "This is really"
-	line "MR.FUJI's house."
+	text "Questa sarebbe la"
+	line "casa di MR.FUJI."
 
-	para "He's really kind!"
+	para "Che cara persona!"
 
-	para "He looks after"
-	line "abandoned and"
-	cont "orphaned #MON!"
+	para "Si prende cura dei"
+	line "#MON orfani e"
+	cont "abbandonati!"
 	done
 
 _LavenderHouse1Text_1d8f9::
-	text "It's so warm!"
-	line "#MON are so"
-	cont "nice to hug!"
+	text "È così caldo!"
+	line "Abbracciare i"
+	cont "#MON è bello!"
 	done
 
 _LavenderHouse1Text3::
-	text "PSYDUCK: Gwappa!@@"
+	text "PSYDUCK: Psidù!@@"
 
 _LavenderHouse1Text4::
-	text "NIDORINO: Gaoo!@@"
+	text "NIDORINO: Nidor!@@"
 
 _LavenderHouse1Text_1d94c::
-	text "MR.FUJI: <PLAYER>."
+	text "MR.FUJI: <PLAYER>!"
 
-	para "Your #DEX quest"
-	line "may fail without"
-	cont "love for your"
-	cont "#MON."
+	para "Solo con l'amore"
+	line "per i tuoi"
+	cont "#MON riuscirà"
+	cont "la tua missione"
+	cont "#DEX."
 
-	para "I think this may"
-	line "help your quest."
+	para "Credo che questo"
+	line "ti sarà d'aiuto."
 	prompt
 
 _ReceivedFluteText::
-	text "<PLAYER> received"
-	line "a @"
+	text "<PLAYER> riceve"
+	line "il @"
 	TX_RAM wcf4b
 	text "!@@"
 
 _FluteExplanationText::
 	db $0
-	para "Upon hearing #"
-	line "FLUTE, sleeping"
-	cont "#MON will"
-	cont "spring awake."
+	para "Il suono del"
+	line "# FLAUTO,"
+	cont "desterà i #MON"
+	cont "addormentati."
 
-	para "It works on all"
-	line "sleeping #MON."
+	para "Funziona su tutti"
+	line "i #MON che"
+	cont "dormono."
 	done
 
 _FluteNoRoomText::
-	text "You must make"
-	line "room for this!"
+	text "Devi fare spazio"
+	line "per questo!"
 	done
 
 _MrFujiAfterFluteText::
-	text "MR.FUJI: Has my"
-	line "FLUTE helped you?"
+	text "MR.FUJI: È stato"
+	line "utile il FLAUTO?"
 	done
 
 _LavenderHouse1Text6::
-	text "#MON Monthly"
-	line "Grand Prize"
-	cont "Drawing!"
+	text "Concorso Mensile"
+	line "di Disegno"
+	cont "#MON!"
 
-	para "The application"
-	line "form is..."
+	para "Il modulo di"
+	line "iscrizione è..."
 
-	para "Gone! It's been"
-	line "clipped out!"
+	para "...è scomparso!"
 	done
